@@ -1,0 +1,9 @@
+rule,rows_left,removed
+start (master_cleaned.csv),9612,0
+"level in ['word', 'phrase', 'sentence']",9521,91
+has native text,9521,0
+native text has no web link,9521,0
+native text <= 15 words,5434,4087
+no bad quality flags,5413,21
+"has at least one usable prompt ['ar', 'fr', 'en']",5321,92
+remove duplicates (language + native text),5321,0

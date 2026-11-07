@@ -1,0 +1,104 @@
+﻿language_code,master_id_a,text_a,master_id_b,text_b,similarity,reason
+fuc,PUL-1175,Wawru,PUL-1979,Wawru:,1.0,same_after_folding
+fuc,PARA-PUL-0824,Com !,PARA-PUL-0825,Com .,1.0,same_after_folding
+fuc,PARA-PUL-0830,"Conce he daaɗe jooɗiiɓe yimooɓe njillu he "" yilloo "" .",PARA-PUL-0854,"Coñce he daaɗe jooɗiiɓe yimooɓe , njillu he "" yilloo "" .",1.0,same_after_folding
+fuc,PARA-PUL-0841,"Cosgol cate e nder gure ina hollita nguurndam Fedde Ɓamtaare Pulaar e nder leydi Muritani koko jokki "" .",PARA-PUL-0842,Cosgol cate e nder gure ina hollita nguurndam Fedde Ɓamtaare Pulaar e nder leydi Muritani koko jokki .,1.0,same_after_folding
+fuc,PARA-PUL-0325,Biritannaaɓe karmininjulaagu ɓaleeɓe .,PARA-PUL-0324,Biritannaaɓe karmini njulaagu ɓaleeɓe .,0.986,fuzzy_match
+fuc,PARA-PUL-0856,Coñce he dille fitiram golle fiytirooɓe maa fiytiraaɓe golle .,PARA-PUL-0855,Coñce he dille fitiram golle en fiytirooɓe maa fiytiraaɓe golle .,0.976,fuzzy_match
+fuc,PARA-PUL-0852,"Coñce haa ɗo baalnooɗo he naale fina he ñooltude joom geese , ŋottiliiɗo he sukku ina fooɗondira e dasnde gaara .",PARA-PUL-0853,"Coñce haa ɗo baalnooɗo he naale finirta ñooltude joom geese , ŋottiliiɗo he sukku ina fooɗondira e dasnde gaara .",0.972,fuzzy_match
+fuc,PARA-PUL-0429,"Caggal jonte ɗiɗi deftagol , sukaabe laaɓa juuɗe , ɓe mbaɗanii Baabaaɓenaaɓe jamma mo yejjittaake .",PARA-PUL-0430,"Caggal jonte ɗiɗi deftagol , sukaabe laaɓa juuɗe ɓee mbaɗanii Bahbahbenaaɓe jamma mo yejjittaake .",0.963,fuzzy_match
+fuc,PARA-PUL-0851,"Coñce haa ñalla waala , fina kadi dawta !",PARA-PUL-0850,"Coñce haa haa ñalla waala , fina kadi dawta !",0.949,fuzzy_match
+fuc,PUL-1572,"Juulirde nde woni ɗiɗaɓere ɓurnde mawnude e nder Asii fuɗnaange-rewo caggal juulirde Istiqlal to Jakarta, kadi ina jeyaa e juulirɗe ɓurɗe ŋarɗude e nder leydi Malesi.",PUL-1570,"Juulirde Crystal ko juulirde ɗiɗaɓere ɓurnde mawnude e nder Asii fuɗnaange-rewo caggal juulirde Istiqlal to Jakarta, kadi ina jeyaa e juulirɗe ɓurɗe ŋarɗude e nder leydi Malesi.",0.932,fuzzy_match
+mey,HASS-0902,الدوش أمنين؟,HASS-1719,الدوش أمنين.,1.0,same_after_folding
+mey,HASS-1711,رگاجين,HASS-1937,رگاجين.,1.0,same_after_folding
+mey,TRIL-HASS-0011,مندر يكانك تبقي لكرايه ؟,TRIL-HASS-0038,مندر يكانك تبقي لكراية ؟,1.0,same_after_folding
+mey,TRIL-HASS-0035,مندر يكان تبقي لكرايه,TRIL-HASS-0011,مندر يكانك تبقي لكرايه ؟,0.977,fuzzy_match
+mey,TRIL-HASS-0035,مندر يكان تبقي لكرايه,TRIL-HASS-0038,مندر يكانك تبقي لكراية ؟,0.977,fuzzy_match
+mey,HASS-1451,علاش يخلگ هذا.,HASS-1781,أعلاش يخلگ هذا,0.963,fuzzy_match
+mey,HASS-0189,مات ساكن هون.,TRIL-HASS-0060,ماتل ساكن هون,0.96,fuzzy_match
+mey,TRIL-HASS-0082,ماهون شي منه,TRIL-HASS-0088,ماهون شي منها,0.96,fuzzy_match
+mey,HASS-0989,أن أمع صحابي,TRIL-HASS-0087,أن أمع أصحابي,0.96,fuzzy_match
+mey,TRIL-HASS-0011,مندر يكانك تبقي لكرايه ؟,TRIL-HASS-0086,مندر كانك تبقي الكراية ؟,0.955,fuzzy_match
+mey,TRIL-HASS-0038,مندر يكانك تبقي لكراية ؟,TRIL-HASS-0086,مندر كانك تبقي الكراية ؟,0.955,fuzzy_match
+mey,TRIL-HASS-0014,انت تبغي لقراية؟,TRIL-HASS-0052,انت تبغي لكراية؟,0.933,fuzzy_match
+mey,TRIL-HASS-0035,مندر يكان تبقي لكرايه,TRIL-HASS-0086,مندر كانك تبقي الكراية ؟,0.93,fuzzy_match
+mey,TRIL-HASS-0050,انا مع اصحابي,TRIL-HASS-0087,أن أمع أصحابي,0.923,fuzzy_match
+snk,SNK-0619,N wa a mulla...,SNK-1177,N wa a mulla,1.0,same_after_folding
+snk,SNK-0620,An na kan moxo?,SNK-0818,An na kan moxo,1.0,same_after_folding
+snk,SNK-0623,N wa an ñaagana,SNK-1178,N wa an naagana,1.0,same_after_folding
+snk,SNK-0674,An wuyi jamu ?,SNK-0821,An wuyi jamu,1.0,same_after_folding
+snk,SNK-0676,Beeta !,SNK-0839,Beeta,1.0,same_after_folding
+snk,SNK-0677,Kira !,SNK-1074,Kira,1.0,same_after_folding
+snk,SNK-0678,Lella !,SNK-1123,Lella,1.0,same_after_folding
+snk,SNK-0679,Sunka !,SNK-1299,Sunka,1.0,same_after_folding
+snk,SNK-0791,di,DICT-SNK-0131,Di,1.0,same_after_folding
+snk,SNK-0792,falle,SNK-0908,Falle,1.0,same_after_folding
+snk,SNK-0794,kaane,SNK-1023,Kaane,1.0,same_after_folding
+snk,SNK-0800,maxa,DICT-SNK-0521,Maxa,1.0,same_after_folding
+snk,SNK-0804,naxa,DICT-SNK-0550,Ñaxa,1.0,same_after_folding
+snk,SNK-0815,An,SNK-1658,an,1.0,same_after_folding
+snk,SNK-0845,Banbu,SNK-1742,banbu,1.0,same_after_folding
+snk,SNK-0848,Boloone,SNK-1903,boloone,1.0,same_after_folding
+snk,SNK-0850,Boore,SNK-1920,boore,1.0,same_after_folding
+snk,SNK-0859,Butiki,SNK-1978,butiki,1.0,same_after_folding
+snk,SNK-0862,Buure,SNK-1986,buure,1.0,same_after_folding
+snk,SNK-0869,Bange,SNK-1751,bange,1.0,same_after_folding
+snk,SNK-0877,Bifi,SNK-1855,bifi,1.0,same_after_folding
+snk,SNK-0949,Fuuñe,DICT-SNK-0242,Fuune,1.0,same_after_folding
+snk,SNK-0984,i,SNK-0985,I,1.0,same_after_folding
+snk,SNK-0986,in,DICT-SNK-0316,In,1.0,same_after_folding
+snk,SNK-1040,Kan,DICT-SNK-0385,Kan ?,1.0,same_after_folding
+snk,SNK-1068,Kine,DICT-SNK-0419,Kiñe,1.0,same_after_folding
+snk,SNK-1081,Ko,DICT-SNK-0428,Ko ?,1.0,same_after_folding
+snk,SNK-1147,Manne,DICT-SNK-0514,Manne ?,1.0,same_after_folding
+snk,SNK-1149,Mannime,DICT-SNK-0515,Mannime ?,1.0,same_after_folding
+snk,SNK-1179,Na,SNK-1420,Ña,1.0,same_after_folding
+snk,SNK-1201,Ñiiñe,DICT-SNK-0560,Ñiine,1.0,same_after_folding
+snk,SNK-1207,Bolle,SNK-1899,bolle,1.0,same_after_folding
+snk,SNK-1463,Banboroso,SNK-1740,banboroso,1.0,same_after_folding
+snk,SNK-1479,Badaane,SNK-1706,badaane,1.0,same_after_folding
+snk,SNK-1518,Bandeeri,SNK-1748,bandeeri,1.0,same_after_folding
+snk,SNK-1530,Bereta,SNK-1835,bereta,1.0,same_after_folding
+snk,SNK-1531,Bida,SNK-1854,bida,1.0,same_after_folding
+snk,SNK-1554,wanqi,DICT-SNK-0681,Wanqi,1.0,same_after_folding
+snk,SNK-1557,wuñi,DICT-SNK-0702,Wuñi,1.0,same_after_folding
+snk,SNK-1570,Biida,SNK-1857,biida,1.0,same_after_folding
+snk,SNK-1631,alikeebu,DICT-SNK-0007,Alikeebu,1.0,same_after_folding
+snk,SNK-1632,alimaami,DICT-SNK-0008,Alimaami,1.0,same_after_folding
+snk,SNK-1665,arijanna,DICT-SNK-0017,Arijanna,1.0,same_after_folding
+snk,SNK-1675,ayiwa,DICT-SNK-0018,Ayiwa !,1.0,same_after_folding
+snk,SNK-1682,baafe,DICT-SNK-0020,Baafe,1.0,same_after_folding
+snk,SNK-1783,bataaxe,DICT-SNK-0041,Bataaxe,1.0,same_after_folding
+snk,SNK-1823,bendi,DICT-SNK-0050,Bendi,1.0,same_after_folding
+snk,SNK-1858,biifi,DICT-SNK-0059,Biifi,1.0,same_after_folding
+snk,SNK-1859,biijibaajo,DICT-SNK-0060,Biijibaajo,1.0,same_after_folding
+snk,SNK-1871,binne,DICT-SNK-0063,Binne,1.0,same_after_folding
+snk,SNK-1877,bire,DICT-SNK-0064,Bire,1.0,same_after_folding
+snk,SNK-1889,bite,DICT-SNK-0066,Bite,1.0,same_after_folding
+snk,SNK-1910,bonte,DICT-SNK-0071,Bonte,1.0,same_after_folding
+snk,SNK-1921,booto,DICT-SNK-0073,Booto,1.0,same_after_folding
+snk,SNK-1945,bulu,DICT-SNK-0081,Bulu,1.0,same_after_folding
+snk,SNK-1947,buna,DICT-SNK-0082,Buna,1.0,same_after_folding
+snk,SNK-1951,bunne,DICT-SNK-0084,Bunne,1.0,same_after_folding
+snk,SNK-1953,bunu,DICT-SNK-0085,Bunu,1.0,same_after_folding
+snk,SNK-1960,bure,DICT-SNK-0087,Bure,1.0,same_after_folding
+snk,SNK-1997,caaku,DICT-SNK-0097,Caaku,1.0,same_after_folding
+snk,SNK-1999,cakka,DICT-SNK-0099,Cakka,1.0,same_after_folding
+snk,DICT-SNK-0529,Ni,DICT-SNK-0557,Ñi,1.0,same_after_folding
+snk,SNK-0624,An ra wa sefene tubaabun-xannen ya ba?,SNK-0820,An ra wa sefene tubaabun-xannen ŋa ba,0.973,fuzzy_match
+snk,SNK-0743,n da maaro yiga,SNK-0744,n da maaron yiga,0.968,fuzzy_match
+snk,DICT-SNK-0203,Firinfiraane,SNK-0932,Firin-firaane,0.96,fuzzy_match
+snk,DICT-SNK-0190,Fanta-kurufe,SNK-0915,Fantan-kurufe,0.96,fuzzy_match
+snk,SNK-0751,yugo bagu,SNK-0753,yugon bagu,0.947,fuzzy_match
+snk,DICT-SNK-0086,Bununbuna,SNK-0857,Bununbunna,0.947,fuzzy_match
+snk,SNK-1646,aliyatime,SNK-1526,Aliyatiime,0.947,fuzzy_match
+snk,SNK-1646,aliyatime,SNK-1645,aliyaatime,0.947,fuzzy_match
+snk,SNK-1860,biijibajo,SNK-1859,biijibaajo,0.947,fuzzy_match
+snk,SNK-1860,biijibajo,DICT-SNK-0060,Biijibaajo,0.947,fuzzy_match
+snk,SNK-0749,a da i wullen katu,SNK-0762,a da a wullen katu,0.944,fuzzy_match
+snk,SNK-0567,"«Fo nta siro duna, ma tage, fo nta bono duna, ma tage, gelli tagaaxu ga na bono, duna buren wa riini. Danbi siri gume, hawula siri gume. Man na xo tagaaxu ?»",SNK-0605,"«Fo nta siro duna ma tage, fo nta bono duna ma tage, jaaxa tagaaxu ga na bono, dunanburen yan riini, danbi siri gume, hawula siri gume. Man ni xo tagaaxu?»",0.942,fuzzy_match
+snk,SNK-0747,fullan-doroke,SNK-0748,Fullen doroke,0.923,fuzzy_match
+wol,WOL-1020,Jëfandikukat bi,WOL-1909,Jëfandikukat bi.,1.0,same_after_folding
+wol,WOL-1020,Jëfandikukat bi,WOL-1776,Jëfandikukat yi,0.933,fuzzy_match
+wol,WOL-1776,Jëfandikukat yi,WOL-1909,Jëfandikukat bi.,0.933,fuzzy_match
+wol,WOL-0932,Jëfandikukat yi di am njariñ,WOL-1149,Jëfandikukat yi ñu am njariñ.,0.929,fuzzy_match

@@ -1,0 +1,387 @@
+﻿language_code,text_native,master_id_kept,field,value_kept,values_dropped,files
+mey,أمنين هي الكنيسة؟,HASS-0075,text_arabic,أين الكاتدرائية ؟,أين الدير ؟,arabic_hassaniya.csv
+mey,أمنين هي الكنيسة؟,HASS-0075,text_french,Où est la cathédrale?,Où est le couvent?,arabic_hassaniya.csv
+mey,أمنين هي الكنيسة؟,HASS-0075,text_english,Where is the cathedral?,Where is the monastery?,arabic_hassaniya.csv
+mey,طحت من المطاليع.,HASS-0353,text_arabic,لقد سقطت من على درجات السلم .,سقطت من على السلم .,arabic_hassaniya.csv
+mey,طحت من المطاليع.,HASS-0353,text_english,I fell down the stairs.,I fell from the stairs.,arabic_hassaniya.csv
+mey,ماني متمونك.,HASS-0934,text_arabic,أشعر بوعكة .,أشعر بالإعياء .,arabic_hassaniya.csv
+fuc,Huutoraade otooji jamaa,PUL-0987,text_arabic,استعمال وسائل النقل الجماعي,استخدام وسائل النقل الجماعي,arabic_pulaar.csv
+fuc,Huutoraade otooji jamaa,PUL-0987,source_url,https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D9%86%D8%AD%D8%A7%D9%81%D8%B8_%D8%B9%D9%84%D9%89_%D9%85%D9%88%D8%A7%D8%B1%D8%AF_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9,https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D9%86%D8%AD%D8%A7%D9%81%D8%B8_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9,arabic_pulaar.csv
+fuc,A mbali jam,PUL-1418,text_arabic,صباح الخير,صَبَاح الْخَيْر,arabic_pulaar.csv; arabic_hassaniya_pulaar_trilingual.csv
+fuc,A mbali jam,PUL-1418,level,sentence,phrase,arabic_pulaar.csv; arabic_hassaniya_pulaar_trilingual.csv
+fuc,Sanu,PUL-1574,text_arabic,السَّلَامُ عَلَيْكُمْ,أهْلًا وسَهْلًا,arabic_pulaar.csv; arabic_hassaniya_pulaar_trilingual.csv
+fuc,Sanu,PUL-1574,level,sentence,phrase,arabic_pulaar.csv; arabic_hassaniya_pulaar_trilingual.csv
+snk,"A ti : «Axa soro filli, xa daga do yaxare ke ya Yerere.» Jaaru ku filli daga doome killen di, in nta sefene me da. I ga ri Yerere, i da sunken londi doome, na yaxare ke mundu hoorun maxa, i d'a kita. Wuron kaanana, i ga toxo taaxunu kundun, jarinten yugo ri na gumbo baane xanne kutu, nan daga t'a ya gunnen di. Jaaru ku filli su raqqen gemm'a di nan ti : « Bajara ga nyi yere ke, gumbo ma yi kalla, ke jarinte ma yi gumbo tana ragana, a nyi kalla tanne.",SNK-0437,text_arabic,"قال: ""اذهبا أنتما الاثنان إلى ييريري للعثور على هذه المرأة"". انطلق الراويان معًا، لكنهما تجنبا تبادل كلمة واحدة. عندما وصلا إلى ييريري، أقاما صلاةً، وطلبا يد المرأة من الشيوخ، فوافقوا. في وقت متأخر من تلك الليلة، وبينما كانا جالسين، ظهر أسد، ومزق رأس ثور، وحمله إلى الأدغال. رثى الراويان بصوت واحد، قائلين: ""لو كان باديارا هنا، لما قُتل هذا الثور؛ ولما أخذ هذا الأسد ثورًا آخر، بل كان سيموت"".","كان لدى باديارا بندقية، فقام بتعبئتها. صوب نحو الأسد، واستقرت الرصاصات في جمجمته. هرع الراويان، لا يرتدي أي منهما سروالًا ولا حتى رداءً؛ وأمسكا بالأسد ليرمياه بعيدًا. في ذلك اليوم فقط، توصل الراويان إلى اتفاق؛ قال الأول للثاني: ""كونتي""، فأجابه الثاني: ""تونكارا"". مرت ثلاثة أيام، وبعدها غادر باديارا وزوجته الجديدة ييريري إلى باليه. بعد بضعة أيام في باليه، استدعى الراويين وأخبرهما برغبته في الرحيل.",arabic_soninke.csv
+snk,"A ti : «Axa soro filli, xa daga do yaxare ke ya Yerere.» Jaaru ku filli daga doome killen di, in nta sefene me da. I ga ri Yerere, i da sunken londi doome, na yaxare ke mundu hoorun maxa, i d'a kita. Wuron kaanana, i ga toxo taaxunu kundun, jarinten yugo ri na gumbo baane xanne kutu, nan daga t'a ya gunnen di. Jaaru ku filli su raqqen gemm'a di nan ti : « Bajara ga nyi yere ke, gumbo ma yi kalla, ke jarinte ma yi gumbo tana ragana, a nyi kalla tanne.",SNK-0437,text_french,"Il dit: «Vous deux, allez à Yéréré chercher cette femme.» Les deux griots prirent ensemble le chemin, mais évitèrent d'échanger des paroles. Arrivés à Yéréré, ils animèrent la veillée, demandèrent aux notables la main de la femme; ils obtinrent satisfaction. Tard dans la nuit, alors qu'ils étaient assis, un lion fit son entrée, arracha la tête d'un bœuf et l'emporta dans la brousse. Les deux griots [se lamentèrent] en disant en chœur: «Si Badiara était présent, ce taureau n'aurait pas été tué ; ce lion ne prendrait plus un autre taureau, il serait mort.»","Badiara avait un fusil qu'il chargea, il visa le lion et les balles allèrent se loger dans son crâne. Les deux griots arrivèrent en courant, aucun d'eux ne portait de pantalon, ni même de boubou ; ils prirent le lion pour aller le jeter. C'est ce jour-là seulement que les deux griots se mirent d'accord; le premier dit au second «Konté» et ce dernier lui répondit «Tounkara.» Trois jours passèrent, après lesquels Badiara et sa nouvelle épouse quittèrent Yéréré pour Ballé. Après quelques jours passés à Ballé, il convoqua les deux griots et leur dit qu'il voudrait bien quitter Ballé.",arabic_soninke.csv
+snk,An haqqen toxo in da,SNK-0621,category,Expressions Usuelles,Expressions,arabic_soninke.csv
+snk,An haqqen toxo in da,SNK-0621,level,sentence,word,arabic_soninke.csv
+snk,Selli a ga nta an toorono,SNK-0622,text_arabic,من فضلك (اقرأ: إذا لم يكن لديك مانع),لو سمحت,arabic_soninke.csv
+snk,Selli a ga nta an toorono,SNK-0622,text_french,S'il vous plaît (lit: Si cela ne vous dérange pas),S'il vous plaît,arabic_soninke.csv
+snk,Selli a ga nta an toorono,SNK-0622,category,Expressions Usuelles,Expressions,arabic_soninke.csv
+snk,Selli a ga nta an toorono,SNK-0622,level,sentence,word,arabic_soninke.csv
+snk,An do faame,SNK-0625,text_arabic,لقد مر وقت طويل! (حرفياً: أنت والغياب),لقد مر وقت طويل! (أنت والغياب),arabic_soninke.csv
+snk,An do faame,SNK-0625,text_french,Ça fait longtemps ! (lit: Toi et l'absence),Ça fait longtemps ! (Toi et l'absence),arabic_soninke.csv
+snk,An do faame,SNK-0625,category,Salutations,Social,arabic_soninke.csv
+snk,Janmu diima ?,SNK-0627,text_arabic,ما هو اسم عائلتك؟,وما اسم عائلتك؟,arabic_soninke.csv
+snk,Janmu diima ?,SNK-0627,text_french,Quel est votre nom de famille ?,Et votre nom de famille ?,arabic_soninke.csv
+snk,N wa Bamako,SNK-0631,category,Grammaire (Être/Lieu),Localisation,arabic_soninke.csv
+snk,N ñi Pari,SNK-0632,category,Grammaire (Être/Lieu),Localisation,arabic_soninke.csv
+snk,A nta yere,SNK-0633,category,Grammaire (Être/Lieu),Localisation,arabic_soninke.csv
+snk,A ra wa terene,SNK-0638,text_arabic,يستطيع المشي / يعرف كيف يمشي,إنه يعرف كيف يمشي,arabic_soninke.csv
+snk,A ra wa terene,SNK-0638,text_french,Il peut marcher / Il sait marcher,Il sait marcher,arabic_soninke.csv
+snk,A ra wa terene,SNK-0638,category,Grammaire (Pouvoir),Capacité (Pouvoir) || Savoir-faire,arabic_soninke.csv
+snk,N ra nta xinini,SNK-0639,category,Grammaire (Pouvoir),Capacité (Pouvoir) || Savoir-faire,arabic_soninke.csv
+snk,An na manne daharini ?,SNK-0641,category,Grammaire (Action),Actions / Transitivité,arabic_soninke.csv
+snk,A wa maaron yigana,SNK-0642,category,Grammaire (Action),Actions / Transitivité,arabic_soninke.csv
+snk,N da infaaba jaabi,SNK-0643,category,Grammaire (Action),Actions / Transitivité,arabic_soninke.csv
+snk,A do dagayen wa me yi,SNK-0646,category,Grammaire (Action),En cours,arabic_soninke.csv
+snk,Alla dunŋeyen kanma,SNK-0647,category,Grammaire (Temps),Souhait,arabic_soninke.csv
+snk,An na i kuufii,SNK-0651,category,Prendre Congé,Salutations || Social,arabic_soninke.csv
+snk,I na a mugu,SNK-0652,text_arabic,سيسمعون ذلك (رد مهذب),سيسمعونها (ردًا على تحية مُوجَّهة),arabic_soninke.csv
+snk,I na a mugu,SNK-0652,text_french,Ils l'entendront (réponse polie),Ils l'entendront (réponse à une salutation transmise),arabic_soninke.csv
+snk,I na a mugu,SNK-0652,category,Prendre Congé,Salutations,arabic_soninke.csv
+snk,Hara na o koyi me yi !,SNK-0653,category,Prendre Congé,Prendre congé / Bénédiction,arabic_soninke.csv
+snk,N tanpi moxo buru,SNK-0659,text_arabic,A ga na moxo su yi، ma in ga daga Faransi,أنا متعب جداً,arabic_soninke.csv
+snk,N tanpi moxo buru,SNK-0659,text_french,"A ga na moxo su yi, ma in ga daga Faransi",Je suis trop fatigué,arabic_soninke.csv
+snk,N tanpi moxo buru,SNK-0659,category,Divers,Adverbe,arabic_soninke.csv
+snk,a da i wullen katu,SNK-0749,category,Réfléchi,Pronoms (Réfléchi),arabic_soninke.csv
+snk,Ala,SNK-0811,text_french,Dieu,"Allah, Dieu",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Alahadi,SNK-0812,text_french,Dimanche,"Dimanche (i, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Alaxamisa,SNK-0813,text_french,Jeudi,"Jeudi ( a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Alijuma,SNK-0814,text_french,Vendredi,"Vendredi (a , nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,An,SNK-0815,text_french,Tu,"Tu, Toi",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Araba,SNK-0822,text_french,Mercredi,"Mercredi (a , nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Baane,SNK-0826,text_french,Un,"Un, seul",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Baaye,SNK-0828,text_french,Tante (sœur du père),Tante (soeur du père) (i; inu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bappoore,SNK-0835,text_french,Capitaine (poisson),"Capitaine (Poisson) (i, u )",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Baraaje,SNK-0837,text_french,Grâce divine,"Grâce divine (i,u )",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Barama,SNK-0838,text_french,Marmite,"Marmite (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Beeta,SNK-0839,text_french,Salut,Beeta : Salut du matin,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Benne,SNK-0841,text_french,Corne,"Corne (n, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bera,SNK-0842,text_french,Place du village,"Place de village (a, o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bindaane,SNK-0843,text_french,Servante,"Servante (n, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Boore,SNK-0850,text_french,Pigeon,Se déshabiller (boorene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Finkinte,SNK-0852,text_french,Aveugle,"Aveugle (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tawoyi,SNK-0860,text_french,Avoir la fièvre,"Chauffer, avoir la fièvre (tawoyini)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Buure,SNK-0862,text_french,Criquet,"Criquet (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ceero,SNK-0866,text_french,Perroquet,"Perroquet (o, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ciloone,SNK-0868,text_french,Petit oiseau,"Toutes sortes de petits oiseaux (cillon, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daarume,SNK-0873,text_french,Avant-hier,Avant hier,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Betu,SNK-0875,text_french,Serrer,Serrer (betunu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daga,SNK-0876,text_arabic,انتقل إلى,يذهب,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daga,SNK-0876,text_french,Allez à,Aller || Partir (dagana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daga,SNK-0876,category,Expressions,Verbes,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bifi,SNK-0877,text_french,Se coucher sur le ventre,se coucher sur le ventre (bippi),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bili,SNK-0879,text_french,Recouvrir un toit de paille,Recouvrir un toit de paille (bilini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Biyi,SNK-0881,text_french,Brûler,Brûler (biyini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Deemu,SNK-0883,text_french,Chimpanzé,"Chimpanzé (u , nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dere,SNK-0884,text_french,"Feuilles, épinards","Feuille (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dingira,SNK-0885,text_french,Adresse,"Lieu, adresse (a, o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Do,SNK-0886,text_arabic,و,مع (مصاحبة موسيقية),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Do,SNK-0886,text_french,Et,Avec (accompagnement),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Do,SNK-0886,category,Mots usuels,Prépositions / Postpositions,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dolo,SNK-0889,text_french,Bière/alcool,Alcool,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Doono,SNK-0891,text_french,Là,Là-bas,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Doroke,SNK-0893,text_french,Chemise,"Chemise, boubou (i,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Butu,SNK-0897,text_french,Se fâcher,se fâcher (Buttu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Duuñe,SNK-0899,text_french,Pou,"Pou (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Faabe,SNK-0902,text_french,Père,Père ( terme de respect),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Faaba-tugunne,SNK-0903,text_french,Oncle (petit frère du père),"Oncle, petit frère du père (n , u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Faaba-xoore,SNK-0904,text_french,Oncle (grand frère du père),"Oncle , grand frère du père (a, o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Faajiri,SNK-0905,text_french,Prière du matin,"Prière de l'aube, aube (i, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Falle,SNK-0908,text_french,Derrière,"Dos || Après, derrière",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Falle,SNK-0908,category,Adverbes,Santé,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kitte,SNK-0909,text_french,bras/main,"Bras + main (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fana,SNK-0910,text_french,Premier,"Premier (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fanke,SNK-0912,text_french,Vent,"Vent (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fare,SNK-0917,text_french,Âne,"Ane (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Caxabuccaxabu,SNK-0922,text_french,Patauger/manger bruyamment,"Patauger, manger bruyamment (caxabuccaxabunu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Filla,SNK-0927,text_french,Second,"Second, deuxième || Doubler, dédoubler (fillana)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Firige,SNK-0931,text_french,Autruche,"Autruche (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fonde,SNK-0934,text_french,Bouillie,Bouillie avec grumeaux,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Foronto,SNK-0938,text_french,Piment,"Piment (o, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fune,SNK-0941,text_french,Singe,"Singe (u,u) || Jumeau (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Futo,SNK-0943,text_french,Couscous,"Couscous (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Futuro,SNK-0945,text_arabic,الغسق,صلاة الغسق,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Futuro,SNK-0945,text_french,Crépuscule,"Prière du crépuscule || Crépuscule, prière du crépuscule (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Futuro,SNK-0945,category,Le temps,Religion,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fuuge,SNK-0947,text_french,Fleur,"Fleur (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fuure,SNK-0950,text_french,Bateau,"Pirogue, Véhicule (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gabe,SNK-0951,text_french,Beaucoup,"Beaucoup, nombreux (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gacce,SNK-0952,text_french,Honte,"Honte (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ganbare,SNK-0955,text_french,Guitare traditionnelle,"Guitare traditionnelle (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gara,SNK-0956,text_french,Indigo,"Cordonnier (a, ..)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gasere,SNK-0959,text_french,Traditionniste,"Traditionniste (caste proche des griots) (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gede,SNK-0960,text_french,Puits,"Puits (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Geeji,SNK-0961,text_french,Mer,"Mer, océan (i, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gida,SNK-0964,text_french,Frère aîné / Sœur aînée,"Grand frère ou grande sur (terme de respect) (a, anu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gide,SNK-0965,text_french,Colline,"Rocher, colline, montagne (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Golle,SNK-0969,text_french,Travail,"Travail (i,u) || Mortier (pour piler) (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Goppe,SNK-0970,text_french,Rapace/épervier,"Rapace, épervier (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gunne,SNK-0974,text_french,Campagne (brousse),"Campagne, Brousse (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gurugutte,SNK-0975,text_french,Hibou,"Hibou (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Toge,SNK-0977,text_french,Cuisse,"Cuisse (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Guwaane,SNK-0978,text_french,écureuil,"Rat palmiste dit » écureuil « (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Haccitaare,SNK-0979,text_french,Petit déjeuner,"Petit déjeuner (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Hariire,SNK-0980,text_french,Soie,"Soie (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Hoore,SNK-0983,text_french,Noble,"Noble (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,I,SNK-0985,text_french,"Ils, Elles","Ils, elles || Soi (réfléchi de la troisième personne du singulier)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dabari,SNK-0988,text_french,Faire,"Faire, Fabriquer (dabarini)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jaare,SNK-0991,text_french,Griot,"Griot (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jaatigi,SNK-0993,text_french,Hôte,"Hôte, propriétaire (i,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jabe,SNK-0997,text_french,Acacia (scorpioides) / Henné,Henné,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Janba,SNK-1002,text_french,Charognard,Trahir (janbana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Janmu,SNK-1003,text_french,Nom de famille,"Nom de famille (u,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jarinte,SNK-1004,text_french,Lion,"Lion (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jaxatane,SNK-1006,text_french,Gombo,"Gombo (n,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ji,SNK-1009,text_french,Eau,"Eau, tout liquide en général (i- jiinu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jinme,SNK-1011,text_french,Échassier,"Oiseau échassier (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jin-xulle,SNK-1012,text_french,Cigogne,"Cigogne (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dalla,SNK-1017,text_french,Durer,"Durer , rester longtemps (dallana)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dangi,SNK-1019,text_french,Passer,Passer (dangini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daro,SNK-1020,text_french,Respecter,Respecter (darono),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Juma,SNK-1021,text_french,Grande mosquée du Vendredi,"Grande mosquée du vendredi (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ka,SNK-1022,text_arabic,بيت,يسُبّ,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ka,SNK-1022,text_french,Maison,"Injurier || Maison, concession de famille étendue (a, kaanu) || Appellation de l'oncle, abréviation de Kaawu || Injurer (Kana)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ka,SNK-1022,category,Architecture,Société,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kaane,SNK-1023,text_french,Devant,"Devant, avant",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kaayiti,SNK-1027,text_french,Papier,"Papier (i,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kabu,SNK-1028,text_french,Neuf,9,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Deela,SNK-1030,text_french,Verser,Verser (deelana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kalle,SNK-1031,text_french,Mort,La mort,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kallengora,SNK-1032,text_french,Cousin (parent à plaisanterie),"Cousin, parent à plaisanterie (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kame,SNK-1036,text_french,Cent,100,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kanbe,SNK-1041,text_french,Dent,"Dent (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kanjaane,SNK-1045,text_french,Lapin,"Lapin (Kanjan , u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kanme,SNK-1047,text_french,Pluie,"Pluie (Kan, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kanmu,SNK-1048,text_arabic,أعلى,سماء,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kanmu,SNK-1048,text_french,En haut,Ciel,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kanmu,SNK-1048,category,Adverbes,Géographie,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Deele,SNK-1051,text_french,Couler,Couler (deelene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Karago,SNK-1054,text_french,Cinq,5,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Karakataane,SNK-1055,text_french,Rhinocéros,"Rhinocéros (Karakatan, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Doronme,SNK-1056,text_french,Doigt,Doigt (n ;u),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kiide,SNK-1063,text_french,Baobab,"Baobab (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kille,SNK-1066,text_french,Chemin,"Chemin (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kine,SNK-1068,text_french,Crocodile,"Crocodile (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kinge,SNK-1069,text_french,Branche,"Branche (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Deema,SNK-1070,text_french,Aider,Aider (deemana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kira,SNK-1074,text_french,Salut à midi,Passer la journée (Kirana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kisima,SNK-1075,text_french,Grand-père,"Grand Père (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kisimare,SNK-1076,text_french,Petit-enfant,"Petit-fils ou petite-fille (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kiye,SNK-1079,text_arabic,شمس,بطيخ,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kiye,SNK-1079,text_french,Soleil,"Pastèque || Soleil (i,u) || Pastèque (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kiye,SNK-1079,category,Géographie,Plantes,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ko,SNK-1081,text_french,Qui,Dire (Koo),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kobi,SNK-1082,text_french,Beau-frère (mari de la sœur),"Beau-frère : époux de la soeur, Belle soeur : femme du frère (impliquant un rapport de plaisanterie) (i,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kome,SNK-1085,text_french,Esclave,"Captif, esclave (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Konpe,SNK-1087,text_french,Chambre,"Chambre, bâtiment (a, o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Koota,SNK-1088,text_french,Jour,"Jour, date (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kore,SNK-1089,text_french,Charbon,"Ménage , Cellule familiale (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Koroosi,SNK-1093,text_french,Faire attention/surveiller,"Surveiller, faire attention (Koroosini)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kotolle,SNK-1094,text_french,Coton,"Coton (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuddu,SNK-1096,text_french,Cuillére,"Cuiller à métal (u,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuddullenme,SNK-1097,text_french,Petite cuillére,"Petite cuiller à métal (n, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kufune,SNK-1098,text_french,Bonnet,"Bonnet, chapeau, coiffure (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Demu,SNK-1099,text_french,Avoir l'habitude de,Avoir l'habitude de (demunu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kure,SNK-1103,text_french,Guerre,"Guerre (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Deni,SNK-1104,text_french,Emmener,Emmener (denne),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuume,SNK-1105,text_french,échassier,"Echassier : marabout (?) (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuuto,SNK-1107,text_french,Varan,"Varan (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Laada,SNK-1108,text_french,Coutume,"Coutume (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Laate,SNK-1109,text_french,Loin,"Eloigné (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Duguta,SNK-1110,text_french,Terminer,Terminer (dugutana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Duruxoto,SNK-1112,text_french,Se débrouiller,"Prendre courage, se débroullier (duruxotono)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Labo,SNK-1113,text_french,Couteau,"Couteau (o,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Lalle,SNK-1115,text_french,"Canari, jarre","Canari, jarre (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Laxasara,SNK-1118,text_french,Prière du milieu de l'après-midi,"Prière de 16 heures environ (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Leele,SNK-1121,text_french,Tortue d'eau,"Tortue d'eau (a,o) || Etre en retard, traîner, lambiner (leelene)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Lella,SNK-1123,text_french,Bon après-midi,Salutation de l'après-midi,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Lelle,SNK-1124,text_french,Après-midi,"L'Après-midi (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Lemine,SNK-1125,text_french,Petit,"Enfant (par opposition aux adultes) (a, lemunu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Duwa,SNK-1131,text_french,Présenter ses condoléances,Présenter ses condoléances (duwaa),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kunke,SNK-1133,text_french,Épaule,"Epaule (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Luwaase,SNK-1134,text_french,Loyer,"Loyer (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ma,SNK-1135,text_arabic,سيدتي,أو || حتى,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ma,SNK-1135,text_french,Madame,"Ou || Jusqu'à || Prédicatif du parfait négatif des verbes intransitifs || Jusqu'à, jusqu'à ce que || Mère (a, mamu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ma,SNK-1135,category,Famille,Mots usuels || Prépositions / Postpositions,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Maama,SNK-1140,text_arabic,جدة,شكر,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Maama,SNK-1140,text_french,Grand-mère,Remercier || Remercier (maamana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Maama,SNK-1140,category,Famille,Société,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Maaño,SNK-1141,text_french,Jeune marié(e),"Jeune marié(e) (u, maanunu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Maaro,SNK-1142,text_french,Riz,"Riz (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Makka,SNK-1143,text_french,Maïs,"Maïs (a,nu) || La mecque",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Faaba,SNK-1150,text_french,"Secourir, assister","Secourir, porter assistance (faabana) || Père (a, enu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Faati,SNK-1167,text_french,Mourir (euphémisme),Mourir (euphémisme) (faatini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dulle,SNK-1169,text_french,Faim,"Faim, famine (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Butte,SNK-1171,text_french,Foie,"Foie (i, u) || Colère (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Falla,SNK-1180,text_french,Conduire la fiancée,Conduire la fiancée à son mariage (fallana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñaala,SNK-1181,text_french,Écrevisse,"Ecrevisse (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fata,SNK-1182,text_french,"Séparer, sevrer","Séparer, sevrer, récolter (le sougho tardif) ( fatana)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñaaxame,SNK-1183,text_french,Dîner,"Dîner, repas de la nuit (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñange,SNK-1187,text_french,Caméléon,"Caméléon (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñanto,SNK-1189,text_french,Scorpion,"Scorpion (o,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñaxamala,SNK-1192,text_french,Homme de caste,"Artisans, gens des caste (a, nu) de",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñaxe,SNK-1195,text_french,Poisson,"Poisson (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñeru,SNK-1199,text_french,Sept,7,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñiime,SNK-1200,text_french,Racine,"Veine, nerf, racine, (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñiiñe,SNK-1201,text_arabic,أرض,فأرة,arabic_soninke.csv
+snk,Ñiiñe,SNK-1201,text_french,Terre,Souris,arabic_soninke.csv
+snk,Ñiiñe,SNK-1201,category,Géographie,Animaux,arabic_soninke.csv
+snk,Ñogome,SNK-1204,text_french,Dromadaire,"Dromadaire (n,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Nooge,SNK-1205,text_french,À gauche,Gauche,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñunqume,SNK-1210,text_french,Chat sauvage,"Chat sauvage (n, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fenta,SNK-1215,text_french,Donner une claque,Donner une claque (fentana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jolle,SNK-1216,text_arabic,فتق,دودة معوية,arabic_soninke.csv
+snk,Jolle,SNK-1216,text_french,Hernie,Ver intestinal,arabic_soninke.csv
+snk,Ferego,SNK-1217,text_french,S'exiler/émigrer,"S'exiler, émigrer (feregono)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Feri,SNK-1221,text_french,Être fier/orgueilleux,"Etre fier, orgueilleux (ferini)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Firixindi,SNK-1222,text_french,Nouer,Nouer (fixirindini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fuule,SNK-1223,text_french,Siffler,Siffler (fuulene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gemu,SNK-1224,text_french,Rencontrer,"Se rencontrer, égaler (calcul) (genme)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Karankare,SNK-1230,text_french,Jambe,"Jambe (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Saane,SNK-1231,text_arabic,نجم,عين المرابط (الاحترام),arabic_soninke.csv
+snk,Saane,SNK-1231,text_french,Étoile,Œil d'un marabout (respect),arabic_soninke.csv
+snk,Saane,SNK-1231,category,Géographie,Religion,arabic_soninke.csv
+snk,Ta,SNK-1242,text_french,jambe/pied,"Membre intérieur, jambe + pied (a, taanu) || Une fois (a, taanu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jaabi,SNK-1258,text_french,Répondre,Répondre (jaabini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Joofe,SNK-1263,text_french,Arriver,Arriver (joofene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Watte,SNK-1268,text_french,Maladie,"Maladie (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Siine,SNK-1274,text_arabic,أنثى الأيل,سنة,arabic_soninke.csv
+snk,Siine,SNK-1274,text_french,Biche,Année,arabic_soninke.csv
+snk,Siine,SNK-1274,category,Animaux,Le temps,arabic_soninke.csv
+snk,Dogotooro,SNK-1281,text_french,Médecin,"Docteur (o, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Sinqe,SNK-1288,text_arabic,ذقن,لحية,arabic_soninke.csv
+snk,Sinqe,SNK-1288,text_french,Menton,Barbe,arabic_soninke.csv
+snk,Joppe,SNK-1291,text_french,Commencer,Commencer (joppene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kafu,SNK-1306,text_french,Ajouter,"Ajouter, additionner (Kappa) r",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Nuxunne,SNK-1311,text_french,Nez,"Nez (n,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Taaxaade,SNK-1314,text_french,Chaise/siège,"Siège, chaise, … (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tage,SNK-1320,text_french,Forgeron,"Forgeron (a, o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Talaata,SNK-1321,text_french,Mardi,"Mardi (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tamare,SNK-1322,text_french,Datte,"Datte (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tanbo,SNK-1323,text_french,Crédit,"Crédit, emprunt, dette (o, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tanmu,SNK-1328,text_french,Dix,10,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Katu,SNK-1334,text_french,Frapper,Frapper (katta) || Réussir (katta ),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Taye,SNK-1338,text_french,À droite,Droite,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kini,SNK-1343,text_french,Donner,Donner (Kinni),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Teppu,SNK-1345,text_french,Soulier/chaussure,"Chaussure (u, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kumi,SNK-1346,text_french,Allumer,S'allumer (Kumini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kutu,SNK-1347,text_french,Couper,Couper (Kutunu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Toro,SNK-1348,text_french,Oreille,"Oreille (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Teyinne,SNK-1349,text_french,Co-épouse,Co - épouse,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ti,SNK-1350,text_french,Avec (instrument),Dire (tini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tinte,SNK-1355,text_french,Proche,"(a, o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuuru,SNK-1356,text_french,Se taire,Se taire (Kuurunu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tiye,SNK-1357,text_french,Viande,"Viande (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tooxe,SNK-1364,text_french,Poison,"Venin, poisson (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gijinme,SNK-1365,text_french,Poitrine,"Poitrine (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Toxo,SNK-1366,text_french,Prénom,"Laisser (toqqo) || Prénom d'une personne, nom d'une chose, d'un animal (o ,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tumu,SNK-1368,text_french,Six,6,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tumuja,SNK-1369,text_french,Gibier,"Gibier (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tunka,SNK-1371,text_french,Roi,"Roi (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tuune,SNK-1375,text_french,Chacal,"Chacal (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tuure,SNK-1376,text_french,Éléphant,"Eléphant (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wandalle,SNK-1380,text_french,Canard,"Canard (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuyi,SNK-1381,text_french,Rêver/songer,"Offrir (Kuyini) || Rêver, songer (Kuyini)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Laato,SNK-1382,text_french,S'éloigner,S'éloigner (laatono),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Furutu,SNK-1383,text_french,Poumon,"Poumons (u, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Weere,SNK-1386,text_french,Verre,"Verre (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Welo,SNK-1387,text_french,Bicyclette,"Bicyclette (o ,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wujjuune,SNK-1389,text_french,Mille,"Millier (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wulle,SNK-1390,text_french,Chien,"Chien (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wulluha,SNK-1391,text_french,Prière facultative de la matinée,"Prière facultative de 9 heures du matin, cette heure (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wuro,SNK-1395,text_french,Nuit,"Nuit (o,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Lifi,SNK-1396,text_french,Coudre,"Coudre quelque chose (transitif) (lippi) || Coudre, faire de la couture (intransitif) (lifini)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Xaso,SNK-1418,text_arabic,قمر,شهر,arabic_soninke.csv
+snk,Xaso,SNK-1418,text_french,Lune,Mois,arabic_soninke.csv
+snk,Xaso,SNK-1418,category,Géographie,Le temps,arabic_soninke.csv
+snk,Ña,SNK-1420,text_french,Faire (abstrait),"Faire (ñana) || Devenir (ñana) || postposition : à, dans , pour,",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fore,SNK-1429,text_french,Sang,"Sang (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Konbe,SNK-1430,text_french,Sein / Mamelle,"Sein, mamelle (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ñaxali,SNK-1432,text_french,Se réjouir,Se réjouir (ñaxalini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daqqu,SNK-1452,text_french,Soif,"Soif (u, ..)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Lungunte,SNK-1454,text_french,Sourd,"Sourd (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Futte,SNK-1461,text_french,Sueur,"Sueur (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Yaxanne,SNK-1468,text_arabic,بنت,يفتقد,arabic_soninke.csv
+snk,Yaxanne,SNK-1468,text_french,Jeune fille,Mademoiselle,arabic_soninke.csv
+snk,Badaane,SNK-1479,text_french,Varicelle,"Variole (an, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Noxo,SNK-1484,text_french,Ventre,"Intérieur, ventre (u,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gaja,SNK-1494,text_french,Rat,"Rat (a,o) || Lutter (gajaa)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Ficce,SNK-1497,text_french,Vomir,Vomir (ficcene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Gelli,SNK-1499,text_french,Depuis que,Depuis,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Joota,SNK-1503,text_french,Du même âge / Contemporain,"Du même âge, contemporain (a,o)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jura,SNK-1504,text_french,Farine,"Farine (a, )",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Janbangine,SNK-1507,text_french,Pipe,"Pipe (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jeere,SNK-1508,text_french,Voile de mariée,"Voile de mariée (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jiiba,SNK-1509,text_french,Poche,"Poche (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jeeniye,SNK-1511,text_french,Adultère,"Adultère (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Joogiye,SNK-1512,text_french,Blessure,"Blessure (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Hanmi,SNK-1513,text_french,Souci,"Souci (i, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Hijibe,SNK-1519,text_french,Chapitre,"Chapitre (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kaafiri,SNK-1521,text_french,Impie,"Impie (i,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Jula,SNK-1523,text_french,"Commerçant, colporteur","commerçant, colporteur (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Alikaati,SNK-1525,text_french,Policier,"Policier (i , nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Aliyatiime,SNK-1526,text_french,Orphelin,"Orphelin (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Anniye,SNK-1527,text_french,Souhait,"souhait (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Annebi,SNK-1528,text_french,Prophète,Le prophète Mahomet,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bereta,SNK-1530,text_french,Cotisation,"Cotisation (a, nu )",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bida,SNK-1531,text_french,Interdit/tabou,"Interdit « Tabou » (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Danbe,SNK-1533,text_french,L'Histoire/légende,"L'histoire , légende (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Daraja,SNK-1534,text_french,Renommée/mode,"Renommée, mode (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Debere,SNK-1535,text_french,Fétiche/idole,"Fétiche, idole (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Digaame,SNK-1536,text_french,Parole,"Parole (digan , u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Taga,SNK-1547,text_french,Construire,Construire (tagana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tanpi,SNK-1548,text_french,Se fatiguer,Se fatiguer (tanpini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Telle,SNK-1549,text_french,Aller,"Aller, partir (temps de l'inaccompli seulement)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tere,SNK-1550,text_french,Marcher,Marcher (terene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Texe,SNK-1551,text_french,Fermer,"Natte (i,o) || Fermer (ne)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tirindi,SNK-1552,text_french,Demander,Demander (tirindini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tuga,SNK-1553,text_french,Payer,Payer (tugana),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wari,SNK-1555,text_french,Trouver,Voir (walla),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wu,SNK-1556,text_french,Pleurer,Pleurer (wunu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wuru,SNK-1558,text_french,Courir,Courir (wurunu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Wutu,SNK-1559,text_french,Prendre,Prendre (wuttu),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fatanfanso,SNK-1565,text_french,Croisée des chemins,"Lutin (fendan, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fallenme,SNK-1566,text_french,La rivière Falémé,La Falémé : (le petit fleuve),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fanxoore,SNK-1567,text_french,Le fleuve Sénégal,Le sénégal: (le grand fleuve),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Bakkaane,SNK-1568,text_french,Margouillat (lézard),"Margouillat (Lézard) (an, u )",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Baxalle,SNK-1569,text_french,Mulet,"Mulet (i, u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Biida,SNK-1570,text_french,Boa (serpent légendaire),"Boa, serpent légendaire du Wagadou (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Dinma,SNK-1571,text_french,"Moment, instant","Moment, instant (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Danga,SNK-1573,text_french,Porte-monnaie,"Porte monnaie (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Fitolle,SNK-1576,text_french,Torche,"Torche, Lampe (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Maana,SNK-1578,text_french,Cause/sens/signification,"Cause, sens, signification (a, nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Mare,SNK-1579,text_french,Commander,Commander (marene),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Masala,SNK-1580,text_french,"Discuter, causer","Discuter, causer (Masalana)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Taarixu,SNK-1587,text_french,Chronique historique,"Chronique historique (u,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Taballe,SNK-1588,text_french,Tambour de cérémonie,"Grand tambour de cérémonie (guerres, couronnement, …) (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Toore,SNK-1589,text_french,Trône/autorité,"Trône, autorité (i,u) || Tresse (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Toori,SNK-1590,text_french,Introniser,Introniser (toorini),arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Manankunme,SNK-1594,text_french,Fonds de commerce,"Fonds de commerce (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Kuuse,SNK-1600,text_french,Estomac,"Estomac ( i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Marafa,SNK-1602,text_french,Fusil,"Fusil (a,nu)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tangi,SNK-1605,text_french,Pêcher,Pêcher Tangi (tangini) : Pêcher,arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tanbaxodoone,SNK-1608,text_french,Escargot,"Escargot (n,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+snk,Tulle,SNK-1609,text_french,Abeille,"Abeille (i,u)",arabic_soninke.csv; soninke_french_dictionary.csv
+wol,Xët yi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi,WOL-0551,text_arabic,ولم يكتفِ المرابطون بتطبيق مبدأ الدعوة قبل الحرب في بلاد المغرب فقط، بل أخذوا به في الأندلس، فمِن ذلك أن يوسف بن تاشفين أرسل إلى 'ألفونسو' يدعوه للدخول في الإسلام أو دفع الجزية أو الحرب وذلك قبل معركة الزلاقة، التي حدثت سنة 479ه / 1086م[83],الأبحاث وفقاً لعُمقِ الدراسة، وتُقسم إلى نوعين هما: الأبحاث الكيفيّة: هي عبارة عن دراسات تفصيليّة للسلوك الخاص بالمستهلكين، وتعتمد على استخدام مجموعة من الأسئلة التي تُوفرُ للباحث إجابات حول الأسباب الرئيسيّة للتعامل مع موقفٍ مُحددٍ، وظهرت الحاجة لهذه الأبحاث وفقاً للأسباب الآتية: تطور الاهتمام بالرغبات الخاصة للمستهلكين,arabic_wolof.csv
+wol,Xët yi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi,WOL-0551,source_url,https://www.culture.gov.mr/ar/node/91,https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A8%D8%AD%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82,arabic_wolof.csv
+wol,Xët yi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi ci wàll gi,WOL-0551,category,History,Education,arabic_wolof.csv
+snk,Buusu,DICT-SNK-0095,text_french,Reprendre (buusunu),"Effeuiller, récolter les feuilles (indigo par ex.) (buusunu)",soninke_french_dictionary.csv
+snk,Da,DICT-SNK-0103,text_french,Prédicatif affirmatif passé,"postposition : à, pour",soninke_french_dictionary.csv
+snk,Faare,DICT-SNK-0173,text_french,"Message, messager (i, u)",Le prophète Mahomet,soninke_french_dictionary.csv
+snk,Gaada,DICT-SNK-0247,text_french,"Servante (a, nu)","Commencer, vendre, marchander (gaagana)",soninke_french_dictionary.csv
+snk,Gode,DICT-SNK-0275,text_french,"Anneau (a,o)","Unité monétaire (5 franc CFA) (o,o)",soninke_french_dictionary.csv
+snk,Goro,DICT-SNK-0283,text_french,Piler (gorono),"Piler (transitif) (gollo) || Noix de cola (o,nu)",soninke_french_dictionary.csv
+snk,Gundo,DICT-SNK-0288,text_french,"Taureau (o,nu)","Secret (o,nu)",soninke_french_dictionary.csv
+snk,Haqqe,DICT-SNK-0301,text_french,"Nombre, quantité (i,u)","Ressentiment, querelle (i,u)",soninke_french_dictionary.csv
+snk,Kaara,DICT-SNK-0370,text_french,"Côté (a,o)",Chez,soninke_french_dictionary.csv
+snk,Likke,DICT-SNK-0487,text_french,"Charge, fardeau (,u)","Charge, fardeau (i,u)",soninke_french_dictionary.csv
+snk,Mara,DICT-SNK-0516,text_french,"Garder, conserver (marana)","Grenier (a,o)",soninke_french_dictionary.csv
+snk,Ñaxa,DICT-SNK-0550,text_french,"Fête, noces (a,nu)","Fête, noces (a, nu)",soninke_french_dictionary.csv
+snk,Ñi,DICT-SNK-0557,text_french,Prédicatif de l'imparfait,Trouver (ñini),soninke_french_dictionary.csv
+snk,Ñiine,DICT-SNK-0560,text_french,"Souris (i,u)","Terre, sol (i,u)",soninke_french_dictionary.csv
+snk,Tifi,DICT-SNK-0631,text_french,"Planter, faire des plantations (tifini)",Planter quelque chose (transitif) (tippi),soninke_french_dictionary.csv
+snk,Timi,DICT-SNK-0634,text_french,Sentir (timini),Jouer un instrument de music (tinmi),soninke_french_dictionary.csv
+snk,Waxe,DICT-SNK-0690,text_french,"Folie (a,o)","S'affoler, devenir fou (waxene) fou",soninke_french_dictionary.csv
+snk,Wuyi,DICT-SNK-0707,text_french,Passer la nuit (wuyini),"Longue vie (i, )",soninke_french_dictionary.csv
