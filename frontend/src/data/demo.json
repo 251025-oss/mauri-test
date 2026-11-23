@@ -1,0 +1,3250 @@
+{
+"mey": [
+{
+"id": "HASS-0073",
+"native": "إسلمك باص هاذ.",
+"arabic": "من فضلك اكوي هؤلاء.",
+"french": "Veuillez appuyer sur ceux-ci.",
+"english": "Please iron these.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0548",
+"native": "أندور رلونج.",
+"arabic": "أريد الحصول على وصلة كهربائية .",
+"french": "Je voudrais une rallonge.",
+"english": "I want to get an electrical outlet.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0056",
+"native": "أينت جاي.",
+"arabic": "متى ستأتي؟",
+"french": "Quand viendrez-vous?",
+"english": "When will you come?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0806",
+"native": "زين، وفينا.",
+"arabic": "حسنا . لقد انتهيت .",
+"french": "Bien. Vous avez fini.",
+"english": "Okay, I am finished.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1702",
+"native": "مفتاح اباصبارتو، إسلمك.",
+"arabic": "المفتاح الذي يفتح كل الأبواب، من فضلك.",
+"french": "Le passe-partout, s'il vous plaît.",
+"english": "The master key (skeleton key), please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1283",
+"native": "معيدلك.",
+"arabic": "أنت لطيف للغاية .",
+"french": "Vous êtes si gentil.",
+"english": "You are very kind.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1231",
+"native": "أمنينه بتيگ المصورات",
+"arabic": "أين محل الكاميرات؟",
+"french": "Où se trouve le magasin de photos?",
+"english": "Where is the camera shop?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1691",
+"native": "ماتبقي الهول؟",
+"arabic": "هل تحب الموسيقى ؟",
+"french": "Aimez-vous la musique?",
+"english": "Do you like music?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1252",
+"native": "أمنين هوم الدوشات",
+"arabic": "أين غرف الراحة ؟",
+"french": "Où sont les toilettes?",
+"english": "Where are the restrooms?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0268",
+"native": "ذا للرجال؟",
+"arabic": "هل هذا للرجال ؟",
+"french": "Est-ce que c'est pour hommes?",
+"english": "Is this for men?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1110",
+"native": "المقبرة أمنين.",
+"arabic": "أين المقبرة؟",
+"french": "Où se trouve le cimetière?",
+"english": "Where is the cemetery?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0094",
+"native": "ما ندور شي",
+"arabic": "لا أحتاج أي شيء",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0866",
+"native": "أندور افلاش.",
+"arabic": "أريد فلاشا .",
+"french": "Je voudrais un flash.",
+"english": "I want a flash.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0988",
+"native": "ماهون أميه حامية.",
+"arabic": "لا توجد مياه ساخنة جارية.",
+"french": "Il n'y a pas d'eau chaude.",
+"english": "There is no running hot water.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0057",
+"native": "لنهارات گلال",
+"arabic": "لعدة أيام قليلة",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1743",
+"native": "شنهو سعره أنهارين",
+"arabic": "كم ثمنها لمدة يومين؟",
+"french": "C'est combien pour deux jours?",
+"english": "What is the price for two days?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1505",
+"native": "مانشستر حگلا.",
+"arabic": "مانشستر من فضلك.",
+"french": "Manchester, s'il vous plaît.",
+"english": "Manchester, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1119",
+"native": "كارانتيتك فجنيهين.",
+"arabic": "لقد رهنت جنيهان.",
+"french": "J'ai parié deux livres.",
+"english": "Your guarantee is two pounds.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0381",
+"native": "طول وسط، إسلمك.",
+"arabic": "طول متوسط، من فضلك.",
+"french": "Longueur moyenne, s'il vous plaît.",
+"english": "Medium length, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1315",
+"native": "أسمحلي ماريت مصورتي",
+"arabic": "معذرة. لا أستطيع إيجاد الكاميرا الخاصة بي.",
+"french": "Excusez-moi. Je ne trouve pas mon appareil photo.",
+"english": "Excuse me. I can't find my camera.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0668",
+"native": "ماعندك شارب؟",
+"arabic": "هل لديك سيارة من طراز موستانج ؟",
+"french": "Est-ce que vous avez une Mustang?",
+"english": "Do you have a Mustang car?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1719",
+"native": "الدوش أمنين.",
+"arabic": "أين الحمام؟",
+"french": "Où sont les toilettes?",
+"english": "Where is the bathroom?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0441",
+"native": "هذي البوابة 7.",
+"arabic": "إنها البوابة السابعة .",
+"french": "C'est la porte sept.",
+"english": "It is Gate seven.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0859",
+"native": "أندور عدسات كاميرا.",
+"arabic": "أريد عدسات كاميرا تيليفوتوغرافية .",
+"french": "Je voudrais un téléobjectif.",
+"english": "I want telephoto camera lenses.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1010",
+"native": "التالب.",
+"arabic": "التالي .",
+"french": "Suivant.",
+"english": "Next.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1864",
+"native": "أنت كسرت ساقي",
+"arabic": "لقد كسرت ساقي.",
+"french": "Je me suis cassé la jambe.",
+"english": "I broke my leg.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0037",
+"native": "أن ماأطلبت ذ",
+"arabic": "أنا لم أطلب ذلك",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0317",
+"native": "ذا ثقيل.",
+"arabic": "إنه ثقيل .",
+"french": "C'est lourd.",
+"english": "It's heavy.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0085",
+"native": "عندك مسترد",
+"arabic": "هل لديك مسترد ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0876",
+"native": "السعر كم.رگاجين.",
+"arabic": "كم السعر لفردين؟",
+"french": "Combien pour deux personnes?",
+"english": "How much is the price for two people?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0038",
+"native": "جارسون، إسلمك",
+"arabic": "جارسون، من فضلك.",
+"french": "Garçon, s'il vous plaît.",
+"english": "Waiter, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0205",
+"native": "مشكوك",
+"arabic": "إنه ممزق .",
+"french": "C'est déchiré.",
+"english": "It is torn.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0069",
+"native": "اللبس بكم ؟",
+"arabic": "كم سعر الطاقم ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1732",
+"native": "أندور نطلب الصبوح",
+"arabic": "أريد طلب الإفطار .",
+"french": "Je voudrais commander pour le petit déjeuner.",
+"english": "I want to order breakfast.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1156",
+"native": "أگبظ صكي",
+"arabic": "أخذ حقيبتي.",
+"french": "Il a pris mon sac.",
+"english": "He took my bag.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1735",
+"native": "آيس اكريم إسلمك",
+"arabic": "آيس كريم ، من فضلك .",
+"french": "De la glace, je vous prie.",
+"english": "Ice cream, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0017",
+"native": "إسلمك تماشي",
+"arabic": "من فضلك اذهب .",
+"french": "Veuillez partir.",
+"english": "Please go.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0359",
+"native": "أينت بتنَ؟",
+"arabic": "متى تم بناؤها ؟",
+"french": "Quand cela a-t-il été construit?",
+"english": "When was it built?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0088",
+"native": "ماهون شي منها",
+"arabic": "لا يوجد أي منها",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0787",
+"native": "أعليا الحمة.",
+"arabic": "حرارتي مرتفعة .",
+"french": "J'ai de la fièvre.",
+"english": "My temperature is high.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1786",
+"native": "أهيه. ذا.",
+"arabic": "نعم. هذه.",
+"french": "Oui. Celui-là.",
+"english": "Yes. This one.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0904",
+"native": "أمنين الآثار",
+"arabic": "أين الآثار ؟",
+"french": "Où est le monument?",
+"english": "Where are the ruins/historical sites?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0050",
+"native": "انا مع اصحابي",
+"arabic": "إنني مع أصدقائي",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0344",
+"native": "أندور أنجي.بورتلاند الظهر",
+"arabic": "سوف يصل إلى بورتلاند عند الظهيرة .",
+"french": "Il arrive à Portland à midi.",
+"english": "He/It will arrive in Portland at noon.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0218",
+"native": "انلود لجيب.",
+"arabic": "أبحث عن تنورة.",
+"french": "Je cherche une jupe.",
+"english": "I am looking for a skirt.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0408",
+"native": "وهاي إلاه إسلمك",
+"arabic": "تعالَ، من فضلك.",
+"french": "Entrez, je vous en prie.",
+"english": "Come here, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1371",
+"native": "أربع بومايات.",
+"arabic": "أربع تفاحات.",
+"french": "Quatre pommes.",
+"english": "Four apples.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0090",
+"native": "أينت تبدأ بالشغلة",
+"arabic": "متى تبدأ العمل؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0435",
+"native": "إسلمك",
+"arabic": "شكرا لك .",
+"french": "Merci.",
+"english": "Thank you.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0017",
+"native": "أنهارات أشوي",
+"arabic": "لعدة أيام قليلة",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1479",
+"native": "الأثنين.",
+"arabic": "في يوم الاثنين.",
+"french": "Lundi.",
+"english": "On Monday.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0095",
+"native": "انازلة",
+"arabic": "نَزْلَةُ بَرْدٍ",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1380",
+"native": "واعر تفهمه.",
+"arabic": "هل من الصعب فهمها ؟",
+"french": "C'est difficile à comprendre?",
+"english": "Is it difficult to understand?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0404",
+"native": "أتگد أتغلفه، إسلمك.",
+"arabic": "هلا لففتها ، من فضلك ؟",
+"french": "Pourriez-vous les emballer, s'il vous plaît?",
+"english": "Could you wrap it, please?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0943",
+"native": "الكوة مكلية.",
+"arabic": "النافذة محشورة.",
+"french": "La fenêtre est coincée.",
+"english": "The window is stuck.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1888",
+"native": "هاذو اجياع.",
+"arabic": "إنهم جوعى.",
+"french": "Ils ont faim.",
+"english": "They are hungry.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0082",
+"native": "عندكم ابيسين فالفندق؟",
+"arabic": "هل عندكم حمام سباحة في هذا الفندق ؟",
+"french": "Avez-vous une piscine dans cet hôtel?",
+"english": "Do you have a swimming pool in this hotel?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1934",
+"native": "عندك بلاتين؟",
+"arabic": "هل عندك هذا بلون رمادي معتدل ؟",
+"french": "Est-ce que l'avez en platine?",
+"english": "Do you have this in a moderate gray color?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0252",
+"native": "بيت لركاجين، إسلمك.",
+"arabic": "غرفة مزدوجة، من فضلك.",
+"french": "Une chambre double, s'il vous plaît.",
+"english": "A double room, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0191",
+"native": "أنت هون.",
+"arabic": "أنت هنا.",
+"french": "Vous êtes ici.",
+"english": "You are here.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1325",
+"native": "أوره اللافيتة",
+"arabic": "أسفل الباب الخلفي.",
+"french": "Près du panneau.",
+"english": "Behind the sign/label.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1738",
+"native": "عندم سك أكبر.",
+"arabic": "هل يوجد لديكم حقيبة أكبر ؟",
+"french": "Avez-vous une valise plus grande?",
+"english": "Do you have a bigger bag?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0891",
+"native": "نبقي مطعم مريح",
+"arabic": "أريد مطعماً هادئاً .",
+"french": "Je voudrais un restaurant tranquille.",
+"english": "I want a quiet restaurant.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0919",
+"native": "أندور مطعم أهوين",
+"arabic": "أريد فندقاً ارخص .",
+"french": "Je voudrais un hôtel meilleur marché.",
+"english": "I want a cheaper hotel.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0786",
+"native": "كبيت انشا.",
+"arabic": "لقد سكبت الحساء.",
+"french": "J'ai renversé de la soupe.",
+"english": "I spilled the soup.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0911",
+"native": "أن هون فراحة.",
+"arabic": "أنا هنا في عطلة .",
+"french": "Je suis ici en vacances.",
+"english": "I'm here on holiday.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0929",
+"native": "أسمك مرة أخر.",
+"arabic": "اسمك مرة ثانية؟",
+"french": "Redonnez-moi votre nom?",
+"english": "Your name again?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0066",
+"native": "ماكنت أدور ذ",
+"arabic": "لم أكن أريد هذا",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0925",
+"native": "ماقست درجة حرارتك؟",
+"arabic": "هل قست درجة حرارتك ؟",
+"french": "Avez-vous pris votre température?",
+"english": "Did you take your temperature?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0954",
+"native": "مانگد أنعدل ذاك.",
+"arabic": "لا يسعني أداء ذلك .",
+"french": "Je ne peux pas faire ça.",
+"english": "I cannot afford that.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0457",
+"native": "شنهي ضريبة البيع؟",
+"arabic": "كم ضريبة المبيعات ؟",
+"french": "A combien est la taxe de vente?",
+"english": "How much is the sales tax?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1745",
+"native": "أراني نعطبت.",
+"arabic": "لقد أصبت .",
+"french": "J'ai été blessé.",
+"english": "You got it right.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0272",
+"native": "أهيه طبعا.",
+"arabic": "نعم ، بالطبع .",
+"french": "Oui, bien sûr.",
+"english": "Yes, of course.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0092",
+"native": "مافم زيف",
+"arabic": "ليست هناك منشفة",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0865",
+"native": "مافم واقة لرگاد؟",
+"arabic": "هل هناك عربة نوم ؟",
+"french": "Y a-t-il un wagon-couchette?",
+"english": "Is there a sleeping car?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0058",
+"native": "كافتك حكل",
+"arabic": "قهوتك ، من فضلك",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1120",
+"native": "واعيني للصبوح.",
+"arabic": "أيقظني عند الوجبات.",
+"french": "Réveillez-moi pour les repas.",
+"english": "Wake me up for meals.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1305",
+"native": "يلظرك مافات جا؟",
+"arabic": "ألم يأت بعد؟",
+"french": "Il n'est pas encore arrivé?",
+"english": "Hasn't he come yet?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1443",
+"native": "أدوا المجبنة.",
+"arabic": "دواءً للمعدة، من فضلك.",
+"french": "Des médicaments pour l'estomac, s'il vous plaît.",
+"english": "Stomach medicine, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0586",
+"native": "ماعدلت حجز.",
+"arabic": "لم أقم بالحجز .",
+"french": "Je n'ai pas fait de réservation.",
+"english": "I have not made a reservation.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0052",
+"native": "انت تبغي لكراية؟",
+"arabic": "هل تحب القراءة؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0796",
+"native": "راهي تعدي.",
+"arabic": "إنه معد .",
+"french": "C'est contagieux.",
+"english": "It is contagious.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1980",
+"native": "هون نزيف.",
+"arabic": "نزيف هنا.",
+"french": "Il y a du sang ici.",
+"english": "Bleeding here.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0121",
+"native": "عندكم سندرية؟",
+"arabic": "أريد مطفأة سجائر .",
+"french": "Puis-je avoir un cendrier?",
+"english": "I want an ashtray.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-HASS-0078",
+"native": "سبعة ، حكل",
+"arabic": "سبعاً ، من فضلك",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1733",
+"native": "تقبلو شكات سياحية؟",
+"arabic": "هل تقبلون شيكات سياحية؟",
+"french": "Acceptez-vous les chèques-voyages?",
+"english": "Do you accept traveler's checks?",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0861",
+"native": "دقيقة، إسلمك.",
+"arabic": "دقيقة فقط ، من فضلك .",
+"french": "Un instant, je vous prie.",
+"english": "Just a minute, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-0464",
+"native": "بية مراسلة، إسلمك.",
+"arabic": "تذكرة نزول وركوب طائرة أخرى من فضلك .",
+"french": "Un billet de correspondance, s'il vous plaît.",
+"english": "A stopover ticket, please.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1996",
+"native": "لاهي نرجع.",
+"arabic": "سأعود .",
+"french": "Je reviendrai.",
+"english": "I will be back.",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "HASS-1898",
+"native": "أهيه، بديت نفهم.",
+"arabic": "الآن بدأت أفهم .",
+"french": "Ah, je commence à comprendre.",
+"english": "Now I'm beginning to understand.",
+"level": "phrase",
+"category": "Conversational"
+}
+],
+"fuc": [
+{
+"id": "PUL-1216",
+"native": "Seerndude e ustude jokkondiral hakkunde golle e renndo",
+"arabic": "العزلة وتقلص التفاعل المهني والاجتماعي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "TRIL-PUL-0089",
+"native": "Mi ɓuuɓtii suukara oo",
+"arabic": "لقد سكبت الحساء",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1748",
+"native": "Ebere",
+"arabic": "العبرية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1180",
+"native": "Yoga e ɗeen wasiyaaji ina njeyaa heen :",
+"arabic": "ومن هذه النّصائح:",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "PUL-1627",
+"native": "Jam waali, miin Fadil, ummoriiɗo Angalteer",
+"arabic": "السَّلامُ عَلَيْكُمْ، أَنَا فاضِل، مِنْ بريطانيَا",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1590",
+"native": "Jannde aroore",
+"arabic": "الدَّرْسُ التَّالِي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1943",
+"native": "Kuutorɗe ummoraade e jamaanu Ottomaan en",
+"arabic": "أدوات من العصر العثماني",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "PUL-0929",
+"native": "Ɓeydude limoore sarwisaaji e marsandiisuuji e nder luumooji",
+"arabic": "رفع عدد الخدمات والسلع في الأسواق",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1641",
+"native": "Gardiiɗo kisal: Kadi hol to baaba maa woni?",
+"arabic": "رجل الأمن: وأين والدك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1649",
+"native": "Jaagorgal kisal: Aɗa anndi adres ɓesngu maa?",
+"arabic": "رجل الأمن: هل تعرف عنوان أسرتك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1205",
+"native": "Ustugol ŋakkeende gollotooɓe",
+"arabic": "الحد من غياب العاملين",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "TRIL-PUL-0009",
+"native": "hokku am tuubaako",
+"arabic": "اعطني بعض التبغ",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1058",
+"native": "Reende ndiyam e pollugol",
+"arabic": "حماية المياه من التلوث",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1598",
+"native": "Mbele aɗa jogii miñiraaɓe rewɓe e worɓe?",
+"arabic": "هَلْ لَدَيْكَ إِخْوَةٌ أَوْ أَخَوَاتٌ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1656",
+"native": "Baaba: Goonga... Yettoore Alla. A don toy?",
+"arabic": "الوالد: حقا... الحمد لله. أين أنتم؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1700",
+"native": "Reda Al Tabuuli",
+"arabic": "رضا الطبولى",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Technology & Innovation"
+},
+{
+"id": "PUL-1668",
+"native": "Ñalnde: 20/3/2021",
+"arabic": "التَّارِيخ : 20/3/2021",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0007",
+"native": "Hol no ɓesngu maa woniri?",
+"arabic": "كيف حال أسرتك ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1565",
+"native": "Juulirde Kiristaal (walla Juulirde Al-Ballu), leydi Malesi",
+"arabic": "مسجد الكريستال، (أو المسجد البلّوريّ)، ماليزيا",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "TRIL-PUL-0012",
+"native": "Micfo yicfi huunde ngam 6uu6ol",
+"arabic": "أريد شيئا للبرد",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1682",
+"native": "Got en to Toledo",
+"arabic": "القوط في طليطلة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1295",
+"native": "Haalaaji ngam jannginde ɗemngal Arab",
+"arabic": "قصص لتعليم اللغة العربية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "TRIL-PUL-0022",
+"native": "Micfo yicfi kees pentiir",
+"arabic": "أريد صندوق طلاء",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-PUL-0033",
+"native": "Joweeɗiɗi, e dow jam",
+"arabic": "سبعاً ، من فضلك",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1690",
+"native": "Gila e daartol Rikopolis",
+"arabic": "من تاريخ ريكوبوليس",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "TRIL-PUL-0060",
+"native": "O nattii hoɗde ɗoo.",
+"arabic": "لم يعد يقيم هنا",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-PUL-0050",
+"native": "Miɗo wondi e sehilaaɓe am",
+"arabic": "إنني مع أصدقائي",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1003",
+"native": "Semmbe ɓuuɓol ummoriiɗo e ɓuuɓol lewru",
+"arabic": "طاقة المد والجزر الناتجة من جاذبية القمر",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1742",
+"native": "Gerek",
+"arabic": "اليونانية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1753",
+"native": "Bask en",
+"arabic": "الباسكية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1826",
+"native": "Mbele ndiyam ɗam ina moƴƴi?",
+"arabic": "الماء مناسب؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Technology & Innovation"
+},
+{
+"id": "PUL-1209",
+"native": "Hisnude njoɓdi yah-ngartaa",
+"arabic": "توفير كلفة الذهاب والرجوع من العمل",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "PUL-1586",
+"native": "Miin ko mi Siriyanke, wuro Damas",
+"arabic": "أَنَا سُورِيٌّ مِنْ مَدِينَةِ دِمَشْق",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1651",
+"native": "Gardiiɗo kisal: Aɗa siftora tonngoode telefoŋ baaba maa?",
+"arabic": "رجل الأمن: هل تتذكر رقم هاتف والدك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-0041",
+"native": "Koolol ngol juutata ko balɗe nay.",
+"arabic": "ويستمر المهرجان أربعة أيام",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-0937",
+"native": "Reende golle miniraaje ɗe ngonaa nuunɗuɗe",
+"arabic": "الابتعاد عن عمليات التعدين الجائرة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-0861",
+"native": "Waawde yiylaade e heɓde kabaruuji e nofru",
+"arabic": "التمكّن من البحث والحصول على المعلومات بسهولةٍ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0047",
+"native": "Miɗo yiɗi neldude wire",
+"arabic": "أود إرسال برقية",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1006",
+"native": "Reende nokkuuji ɗii e pollugol",
+"arabic": "الحفاظ على البيئة من التلوث",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "TRIL-PUL-0028",
+"native": "Miɗo weltii jooni",
+"arabic": "أشعر بتحسن الآن",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1646",
+"native": "Cukalel: Ko mi Misiranaajo",
+"arabic": "الطفل: أنا مصري",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0085",
+"native": "Mbele aɗa jogii njoɓdi?",
+"arabic": "هل لديك مسترد ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-0178",
+"native": "E laawol yiɗde e barke",
+"arabic": "ورحلة المنى والمنة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-0025",
+"native": "Iwdi: Duɗal janngirɗe Golf",
+"arabic": "المصدر : مركز الخليج للدراسات",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1418",
+"native": "A mbali jam",
+"arabic": "صباح الخير",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Health & Wellness"
+},
+{
+"id": "TRIL-PUL-0042",
+"native": "Juumre/juumre",
+"arabic": "عَصِير/ عَصائِر",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1176",
+"native": "Duɗal Doha ngam jaŋde toownde (lowre)",
+"arabic": "معهد الدوحة للدراسات العليا (الموقع الإلكتروني)",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "TRIL-PUL-0081",
+"native": "Miɗo jogii kees simme",
+"arabic": "لدي صندوق سجائر",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-PUL-0094",
+"native": "Mi alaa haaju e hay huunde",
+"arabic": "لا أحتاج أي شيء",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1635",
+"native": "Gardiiɗo kisal: Jam hiiri!",
+"arabic": "رجل الأمن: صباح الخير!",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1623",
+"native": "On njaaraama Emad, yettoode Alla. Mi jammu.",
+"arabic": "أَهْلًا عِماد، الحَمْدُ لِلَّهِ . بِخَيْرٍ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1660",
+"native": "Baaba: On njaaraama",
+"arabic": "الوالد: إلى اللقاء",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0026",
+"native": "Eey miɗo sikki noon",
+"arabic": "نعم أعتقد ذلك",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1020",
+"native": "Hisnude semmbe",
+"arabic": "الحفاظ على الطاقة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-0838",
+"native": "Yeewtere ndee waɗii hojomaaji sappo e joyi.",
+"arabic": "المحادثةُ لمدّة خمس عشرة دقيقة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0065",
+"native": "Annoore ndee gollataa",
+"arabic": "الإضاءة لا تعمل",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-0828",
+"native": "Anndinde tolno e doole pottital hakkunde sosiyeteeji",
+"arabic": "تحديد مُعدّل وقوة المنافسة بين المُنشآت",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0073",
+"native": "Mbele ina woodi garanti?",
+"arabic": "هل هناك ضمانا ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1022",
+"native": "Suɓaade ngalu duumotoongu e ustude coodguuli geɗe palastik",
+"arabic": "اختيار الموارد المُستدامة، والتقليل من شراء المواد البلاستيكية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1584",
+"native": "Aɗa jeyaa e leydi Jordani?",
+"arabic": "أَنْتِ مِنَ الْأُرْدُن؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-0836",
+"native": "Binndol ko waktu gooto",
+"arabic": "الكتابةُ ساعةٌ واحدة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-0809",
+"native": "Baawgol jannginoowo waɗde wiɗto koyɗol ko o yiɗi",
+"arabic": "قدرة المدرس على عمل استطلاع بسيط لما يريد",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1576",
+"native": "Miɗo wiyee Khalid Mahmuud",
+"arabic": "اسْمِي خَالِد مَحْمُود",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0077",
+"native": "Hol to telefoŋ ɓurɗo ɓadaade woni?",
+"arabic": "أين أقرب هاتف ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1758",
+"native": "Tamil",
+"arabic": "التاميلية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "TRIL-PUL-0025",
+"native": "Mi bettii kilooji ɗiɗi",
+"arabic": "لقد رهنت جنيهان",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1091",
+"native": "Eɓɓaaɗe mahngo e njuɓɓudi beton",
+"arabic": "مشاريع البناء وخلط الخرسانة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1672",
+"native": "Koppi kaayitaaji walla paaspoor",
+"arabic": "صُوْرَةٌ عَنِ الهُوِيَّةِ أَوْ جَوَازِ السَّفَرِ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-0434",
+"native": "Ɗum ko jiidaa e laabi mum jaajɗi.",
+"arabic": "هذا إضافة إلى شوارعها الممتدة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1175",
+"native": "Wawru",
+"arabic": "المصدر",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "PUL-0990",
+"native": "Rajonaade njaru ndiyam e reende ɗum e pollugol",
+"arabic": "ترشيد استهلاك الماء، وحمياته من التلوث",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "TRIL-PUL-0095",
+"native": "nanngude nguleeki",
+"arabic": "نَزْلَةُ بَرْدٍ",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1859",
+"native": "Bimaristan kaawningol ngol!",
+"arabic": "البِيمَارسْتان المُدْهِش!",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Health & Wellness"
+},
+{
+"id": "PUL-0289",
+"native": "Ɓunndu saraaji maggu e wuro keso ngoo",
+"arabic": "والأبار المحاذي لها والمدينة الجديدة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1074",
+"native": "Jaayndeeji, jaayɗe, e cataluuji",
+"arabic": "المجلات والجرائد والكتالوجات",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1575",
+"native": "Kadi yoo jam won e mon",
+"arabic": "وَعَلَيْكُمُ السَّلَام",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-1607",
+"native": "Jaagorɗo oo: A jaaraama!",
+"arabic": "الْمُعَلِّمُ : أَهْلًا وَسَهْلًا بِكُمْ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "PUL-0979",
+"native": "Recycling palastik, gilaas, e njamndi ina waawi geɗe",
+"arabic": "إعادة تدوير المنتجات البلاستيكية، والزجاجية، والعلب المعدنية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-0932",
+"native": "Ɓeydagol nafoore e yiɗdeeji keertiiɗi soodooɓe",
+"arabic": "تطور الاهتمام بالرغبات الخاصة للمستهلكين",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "TRIL-PUL-0090",
+"native": "Hol nde puɗɗoto-ɗaa golle?",
+"arabic": "متى تبدأ العمل؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "TRIL-PUL-0099",
+"native": "Balɗe noye?",
+"arabic": "كم عدد الأيام ؟",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-1346",
+"native": "Hol ko goɗɗum teeŋti e ndee duɗal?",
+"arabic": "ما المميز أيضا في هذه المدرسة؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1440",
+"native": "Ñalawma keso e wuro keso, on njaaraama.",
+"arabic": "يوم جديد ومدينة جديدة، إلى اللقاء.",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Travel & Tourism"
+},
+{
+"id": "TRIL-PUL-0005",
+"native": "Alaa towel",
+"arabic": "ليست هناك منشفة",
+"french": "",
+"english": "",
+"level": "phrase",
+"category": "Conversational"
+},
+{
+"id": "PUL-0498",
+"native": "Facciro yimre Ka'b Bun Zuhayir (Banaat Suuhaad)",
+"arabic": "شرح لقصيدة كعب بن زهير (بانت سعاد)",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1763",
+"native": "Islande",
+"arabic": "الأيسلندية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "PUL-1704",
+"native": "Nour Diwoowo",
+"arabic": "نور شاكر",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Technology & Innovation"
+},
+{
+"id": "PUL-0999",
+"native": "Uddude mboros tooke njamndi e laabi potɗi",
+"arabic": "التخلص من النفايات المعدنية السامة بالطرق الصحيحة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1084",
+"native": "Ina wallita e ustude teddeendi ɓanndu ɓurtundi",
+"arabic": "يساعد على فقدان الوزن الزائد في الجسم",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "PUL-1965",
+"native": "Jaambaaro oo wi'i: E hol no ɗum yahri?",
+"arabic": "قال السياف: وكيف كان ذلك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+}
+],
+"snk": [
+{
+"id": "SNK-1403",
+"native": "Xaarite",
+"arabic": "زبدة الشيا",
+"french": "Karité",
+"english": "",
+"level": "word",
+"category": "Plantes"
+},
+{
+"id": "SNK-1483",
+"native": "Bade",
+"arabic": "الجدري",
+"french": "Variole",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1597",
+"native": "Nafa",
+"arabic": "اهتمام",
+"french": "Intérêt",
+"english": "",
+"level": "word",
+"category": "Économie"
+},
+{
+"id": "SNK-1543",
+"native": "Sikka",
+"arabic": "شك",
+"french": "Douter",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1790",
+"native": "batula",
+"arabic": "رجل البلاط",
+"french": "courtisan",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1526",
+"native": "Aliyatiime",
+"arabic": "يتيم",
+"french": "Orphelin",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1367",
+"native": "Tuguñuuñe",
+"arabic": "ألفية الأرجل",
+"french": "Mille-pattes",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1608",
+"native": "Tanbaxodoone",
+"arabic": "حلزون",
+"french": "Escargot",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1431",
+"native": "Xiñinxiña",
+"arabic": "دبوس طبعة",
+"french": "Punaise",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1324",
+"native": "Tandume",
+"arabic": "ستون",
+"french": "Soixante",
+"english": "",
+"level": "word",
+"category": "Nombres"
+},
+{
+"id": "SNK-1450",
+"native": "Xoxone",
+"arabic": "الأخ الأصغر / الأخت الصغرى",
+"french": "Frère cadet / Sœur cadette",
+"english": "",
+"level": "word",
+"category": "Famille"
+},
+{
+"id": "SNK-1437",
+"native": "Raga",
+"arabic": "يمسك",
+"french": "Attraper",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1561",
+"native": "Xanta",
+"arabic": "يتذكر",
+"french": "Se souvenir",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1822",
+"native": "benbe",
+"arabic": "صنف نباتي",
+"french": "variété de plante",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1277",
+"native": "Sikkandi",
+"arabic": "ثالث",
+"french": "Troisième",
+"english": "",
+"level": "word",
+"category": "Nombres"
+},
+{
+"id": "SNK-1816",
+"native": "beji",
+"arabic": "تذكر فعل الخير",
+"french": "rappeler un bien fait",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1600",
+"native": "Kuuse",
+"arabic": "معدة",
+"french": "Estomac",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1449",
+"native": "Xonto",
+"arabic": "الجنس الذكري",
+"french": "Sexe masculin",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1830",
+"native": "beɲiwaari",
+"arabic": "حوض الاستحمام",
+"french": "baignoire",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1363",
+"native": "Fate",
+"arabic": "جلد",
+"french": "Peau",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1465",
+"native": "Yaqqe",
+"arabic": "زواج",
+"french": "Épouse",
+"english": "",
+"level": "word",
+"category": "Famille"
+},
+{
+"id": "SNK-1537",
+"native": "Diina",
+"arabic": "دِين",
+"french": "Religion",
+"english": "",
+"level": "word",
+"category": "Religion"
+},
+{
+"id": "SNK-1812",
+"native": "beesu",
+"arabic": "الجميع",
+"french": "tout le monde",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1818",
+"native": "belefi",
+"arabic": "لبلوغ سن البلوغ",
+"french": "atteindre l'âge de la puberté",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1522",
+"native": "Kaaduuro",
+"arabic": "صفر",
+"french": "Zéro",
+"english": "",
+"level": "word",
+"category": "Économie"
+},
+{
+"id": "SNK-1369",
+"native": "Tumuja",
+"arabic": "لعبة",
+"french": "Gibier",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1415",
+"native": "Xaranaana",
+"arabic": "طالب",
+"french": "étudiant",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1347",
+"native": "Kutu",
+"arabic": "يقطع",
+"french": "Couper",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1307",
+"native": "Suure",
+"arabic": "معجون الحبوب",
+"french": "Pâte de céréales",
+"english": "",
+"level": "word",
+"category": "Nourriture"
+},
+{
+"id": "SNK-1444",
+"native": "Ri",
+"arabic": "يأتي",
+"french": "Venir",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1311",
+"native": "Nuxunne",
+"arabic": "أنف",
+"french": "Nez",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1495",
+"native": "Malla/Samaqqe",
+"arabic": "ثعبان",
+"french": "Serpent",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1297",
+"native": "Sugu-yaxare",
+"arabic": "معزة",
+"french": "Chèvre",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1852",
+"native": "bicca2",
+"arabic": "قبل، قبل",
+"french": "avant que, avant",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1446",
+"native": "Xoqqe",
+"arabic": "ذيل",
+"french": "Queue",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1849",
+"native": "beyita",
+"arabic": "ترنيمة دينية",
+"french": "chant religieux",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1455",
+"native": "Xunbane",
+"arabic": "غداً",
+"french": "Demain",
+"english": "",
+"level": "word",
+"category": "Le temps"
+},
+{
+"id": "SNK-1290",
+"native": "Soraana",
+"arabic": "يطبخ",
+"french": "Cuisinier/cuisinière",
+"english": "",
+"level": "word",
+"category": "Nourriture"
+},
+{
+"id": "SNK-1303",
+"native": "Sunxason-salle",
+"arabic": "عيد الفطر (نهاية شهر رمضان)",
+"french": "Aïd es-Seghir (fin du Ramadan)",
+"english": "",
+"level": "word",
+"category": "Religion"
+},
+{
+"id": "SNK-1587",
+"native": "Taarixu",
+"arabic": "سجل تاريخي",
+"french": "Chronique historique",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1355",
+"native": "Tinte",
+"arabic": "يغلق",
+"french": "Proche",
+"english": "",
+"level": "word",
+"category": "Adjectifs"
+},
+{
+"id": "SNK-1322",
+"native": "Tamare",
+"arabic": "تاريخ",
+"french": "Datte",
+"english": "",
+"level": "word",
+"category": "Plantes"
+},
+{
+"id": "SNK-1411",
+"native": "Xande",
+"arabic": "كوينكيليبا",
+"french": "Quinquéliba",
+"english": "",
+"level": "word",
+"category": "Plantes"
+},
+{
+"id": "SNK-1359",
+"native": "Saamanan-watte",
+"arabic": "ملاريا",
+"french": "Paludisme",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1610",
+"native": "Xawo",
+"arabic": "يبدو مثل",
+"french": "ressembler",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1845",
+"native": "bexecce",
+"arabic": "غير حاد (سكين)؛ مقرف، مرير؛ غير حاد (سكين)",
+"french": "dull (knife); dégoûtant, amer; émoussé (couteau)",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1546",
+"native": "Suugu",
+"arabic": "يغني",
+"french": "Chanter",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1301",
+"native": "Senba",
+"arabic": "نخاع العظم",
+"french": "Moelle",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1524",
+"native": "Gajallu",
+"arabic": "مقبرة",
+"french": "Cimetière",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1454",
+"native": "Lungunte",
+"arabic": "أصم",
+"french": "Sourd",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1506",
+"native": "Dolo-minna",
+"arabic": "شارب",
+"french": "Buveur",
+"english": "",
+"level": "word",
+"category": "Nourriture"
+},
+{
+"id": "SNK-1530",
+"native": "Bereta",
+"arabic": "مساهمة",
+"french": "Cotisation",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1557",
+"native": "wuñi",
+"arabic": "يفتح",
+"french": "Ouvrir",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1796",
+"native": "bawuya",
+"arabic": "تناول وجبة اليوم السابق",
+"french": "manger le repas de la veille",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1287",
+"native": "Sonka",
+"arabic": "عش",
+"french": "Nid",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1292",
+"native": "Jugumu",
+"arabic": "عرج",
+"french": "Boiter",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1443",
+"native": "repasser",
+"arabic": "يمر",
+"french": "Passe",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1605",
+"native": "Tangi",
+"arabic": "الخطيئة",
+"french": "Pêcher",
+"english": "",
+"level": "word",
+"category": "Activités"
+},
+{
+"id": "SNK-1811",
+"native": "beesa",
+"arabic": "مجموعة متنوعة من الأقمشة، قطعة من غينيا",
+"french": "variété de tissu, pièce de Guinée",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1467",
+"native": "Yaxanbaane",
+"arabic": "شاب أعزب",
+"french": "Jeune homme célibataire",
+"english": "",
+"level": "word",
+"category": "Famille"
+},
+{
+"id": "SNK-1568",
+"native": "Bakkaane",
+"arabic": "سحلية (Margouillat)",
+"french": "Margouillat (lézard)",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1848",
+"native": "beyi",
+"arabic": "طين",
+"french": "suinter",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1789",
+"native": "batu1",
+"arabic": "اجتماع، تجمع",
+"french": "réunion, assemblée",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1837",
+"native": "berexe",
+"arabic": "الرغبة الشديدة",
+"french": "fringale",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1586",
+"native": "Safa",
+"arabic": "اكتب شيئًا",
+"french": "Écrire quelque chose",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1838",
+"native": "besenxonne",
+"arabic": "أناني",
+"french": "égoïste",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1835",
+"native": "bereta",
+"arabic": "يساهم",
+"french": "cotiser",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1300",
+"native": "Sunke",
+"arabic": "مساء",
+"french": "Soir",
+"english": "",
+"level": "word",
+"category": "Le temps"
+},
+{
+"id": "SNK-1836",
+"native": "berete",
+"arabic": "صندوق، جذع",
+"french": "caisse, malle",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1372",
+"native": "Tunkallenme",
+"arabic": "الأمير",
+"french": "Prince",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1783",
+"native": "bataaxe",
+"arabic": "رسالة، رسالة",
+"french": "lettre, message",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1571",
+"native": "Dinma",
+"arabic": "لحظة، لحظة",
+"french": "Moment, instant",
+"english": "",
+"level": "word",
+"category": "Le temps"
+},
+{
+"id": "SNK-1329",
+"native": "Tanmu-do-baane",
+"arabic": "أحد عشر",
+"french": "Onze",
+"english": "",
+"level": "word",
+"category": "Nombres"
+},
+{
+"id": "SNK-1306",
+"native": "Kafu",
+"arabic": "يضيف",
+"french": "Ajouter",
+"english": "",
+"level": "word",
+"category": "Verbes"
+},
+{
+"id": "SNK-1794",
+"native": "bawudi",
+"arabic": "موسيقى جيتار مصحوبة بغناء",
+"french": "musique à la guitare accompagnée de chant",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1276",
+"native": "Sikkande",
+"arabic": "طرف ثالث",
+"french": "Tiers",
+"english": "",
+"level": "word",
+"category": "Nombres"
+},
+{
+"id": "SNK-1447",
+"native": "Xose",
+"arabic": "ممنوع، طوطم",
+"french": "Interdit, totem",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1847",
+"native": "bexinbexi",
+"arabic": "الطبل المستخدم لتوفير الإيقاع للرقص",
+"french": "tambour utilisé pour rythmer la danse",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1474",
+"native": "Yinme",
+"arabic": "رأس",
+"french": "Tête",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1468",
+"native": "Yaxanne",
+"arabic": "بنت",
+"french": "Jeune fille",
+"english": "",
+"level": "word",
+"category": "Famille"
+},
+{
+"id": "SNK-1441",
+"native": "Xoodo",
+"arabic": "صُندُوق",
+"french": "Tronc",
+"english": "",
+"level": "word",
+"category": "Plantes"
+},
+{
+"id": "SNK-1578",
+"native": "Maana",
+"arabic": "السبب/المعنى/الأهمية",
+"french": "Cause/sens/signification",
+"english": "",
+"level": "word",
+"category": "Société"
+},
+{
+"id": "SNK-1466",
+"native": "Yaraxatte",
+"arabic": "غداء",
+"french": "Déjeuner",
+"english": "",
+"level": "word",
+"category": "Nourriture"
+},
+{
+"id": "SNK-1456",
+"native": "Xunbane-falla",
+"arabic": "اليوم الذي يلي غداً",
+"french": "Après-demain",
+"english": "",
+"level": "word",
+"category": "Le temps"
+},
+{
+"id": "SNK-1294",
+"native": "Sugo",
+"arabic": "معزة",
+"french": "Caprin",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1820",
+"native": "beleyi",
+"arabic": "السائل المنوي",
+"french": "éjaculer",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1569",
+"native": "Baxalle",
+"arabic": "بغل",
+"french": "Mulet",
+"english": "",
+"level": "word",
+"category": "Animaux"
+},
+{
+"id": "SNK-1782",
+"native": "basalle",
+"arabic": "البصل",
+"french": "oignon",
+"english": "",
+"level": "word",
+"category": "Culture"
+},
+{
+"id": "SNK-1453",
+"native": "Tiigo",
+"arabic": "النعاس",
+"french": "Somnolence",
+"english": "",
+"level": "word",
+"category": "Santé"
+},
+{
+"id": "SNK-1857",
+"native": "biida",
+"arabic": "ثعبان أسود، بايثون",
+"french": "serpent noir, python",
+"english": "",
+"level": "word",
+"category": "Culture"
+}
+],
+"wol": [
+{
+"id": "WOL-1601",
+"native": "Ndax jigéen ju ndaw ji mooy sa jigéen?",
+"arabic": "هَذِهِ الْبِنْتُ الْقَصِيرِةُ هِيَ أُخْتُكَ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0945",
+"native": "Jëfandikoo ci dox, ci xeeti xeeti-bi-sukaay.",
+"arabic": "قضاء الرحلات القصيرة مشياً أو على الدراجة الهوائية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1776",
+"native": "Jëfandikukat yi",
+"arabic": "مسارات الطفولة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-0271",
+"native": "Al-Waliy Wa-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-La-",
+"arabic": "الولي بودمعة والأسود تعد قصة مجيء ولي الله الصالح سيدي أحمد البكاي بودمعة إلى مدينة ولاته مطلع القرن الخامس عشر الميلادي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1616",
+"native": "Mbooloom: Dunu leen sant, takk na leen.",
+"arabic": "الْمُعَلِّمُ: تَشَرَّفْنَا بِكُمْ، شُكْرًا لَكُمْ.",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1737",
+"native": "Araab",
+"arabic": "اللغة العربية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-0025",
+"native": "Man: Centre de l'étude du Golfe",
+"arabic": "المصدر : مركز الخليج للدراسات",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1091",
+"native": "Jëfandikukat yi, di xéewlu betóon",
+"arabic": "مشاريع البناء وخلط الخرسانة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1646",
+"native": "Doom: Man Misra laa",
+"arabic": "الطفل: أنا مصري",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0992",
+"native": "Sénégal bi ci suuf.",
+"arabic": "استقرار المادة العضوية على الأرض",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1781",
+"native": "Sëriñ bi, di ko fexe.",
+"arabic": "إيقاف الأجهزة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1574",
+"native": "jàmm a nekk ci yéen.",
+"arabic": "السَّلَامُ عَلَيْكُمْ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1645",
+"native": "Jàngoor: Lan la sa réew mi?",
+"arabic": "رجل الأمن: ما جنسيتك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1662",
+"native": "Nëm-ñëm: Hashim Mohammad Fouad",
+"arabic": "الاسْمُ الأَوَّلُ : هَاشِم مُحَمَّد فُؤَاد",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1598",
+"native": "Ndax am na ay bokk mbaa jigéen?",
+"arabic": "هَلْ لَدَيْكَ إِخْوَةٌ أَوْ أَخَوَاتٌ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1505",
+"native": "Xiimaar, ci moroom, ci dëkk bu tollu.",
+"arabic": "شيماء خيدر مغربيّة، من مدينة تطوان",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Lifestyle"
+},
+{
+"id": "WOL-1867",
+"native": "Marge yi.",
+"arabic": "الهوامش",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Health & Wellness"
+},
+{
+"id": "WOL-1947",
+"native": "Xët yi ci wàll bi bi",
+"arabic": "آثار بيزنطية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "WOL-0823",
+"native": "Xale ngir xam li ñu ko wax.",
+"arabic": "القراءة لمعرفة الرأي الآخر",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1939",
+"native": "Jàmm bu taariik",
+"arabic": "حقب تاريخية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "WOL-0144",
+"native": "Sëriñ bi, mu ngi doom bu dëkk bi.",
+"arabic": "أعلي الشيخ ولد الحضرمي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1213",
+"native": "Feex ci njaboot, gën a rafet ak fitna",
+"arabic": "تحقيق المزيد من التقارب العائلي وتحسين الصحة واللياقة البدنية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1188",
+"native": "Sàmmoo ngir seetlu lu baax ci sàmm.",
+"arabic": "احرص على فحص نوعيّة القماش",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1671",
+"native": "Fotoy nit ku nekk.",
+"arabic": "صُوْرَةٌ شَخْصِيّةٌ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1615",
+"native": "T: Man naa Tomaa, nekk xale, jóge Farãs.",
+"arabic": "تُومَاس: أَنَا تُومَاس، أَنَا طالِبٌ، أَنَا مِنْ فَرَنْسَا",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1641",
+"native": "Sëriñ bi: Te fa la sa baay?",
+"arabic": "رجل الأمن: وأين والدك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0867",
+"native": "Di dëkku jëfandikoo téereb yi",
+"arabic": "التقليل من عمليّة استخدام المواد المطبوعة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1936",
+"native": "Mu dee, bàyyi nu ab téere bu deewul.",
+"arabic": "مات وترك لنا كتابا لا يموت .",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Technology & Innovation"
+},
+{
+"id": "WOL-1176",
+"native": "Doha Institut de formation supérieure (website)",
+"arabic": "معهد الدوحة للدراسات العليا (الموقع الإلكتروني)",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-0289",
+"native": "ak ay xànk yi ci biir dëkk bi.",
+"arabic": "والأبار المحاذي لها والمدينة الجديدة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-0837",
+"native": "Déglu ko bu yàgg.",
+"arabic": "الاستماعُ لمدة ثلاثينَ دقيقة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1582",
+"native": "Manay amoon àddukaay ci jànguwu Katar.",
+"arabic": "أَنَا أُسْتَاذٌ فِي جَامِعَةِ قَطَر. وَأَنْتِ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0942",
+"native": "Dafa aju ci ràññikuw, limfaay ak xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xëtu-xë",
+"arabic": "يساعد على تشكيل الدم، والسائل الليمفاوي، والسائل الشوكي في الدماغ جنباً إلى جنب مع غيرها من المواد الأخرى",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1973",
+"native": "Buur ne ko: \"Lu la koy rey, xarit?\"",
+"arabic": "فقال الملك: ما يضحكك أيها المزيّن؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1657",
+"native": "Jàngu-jaay: Déglu nanu ci buntatu ñetti.",
+"arabic": "رجل الأمن: نحن بجانب البوابة رقم ثلاثة.",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1682",
+"native": "Gotti yi ci àll bi.",
+"arabic": "القوط في طليطلة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1748",
+"native": "Hebrew",
+"arabic": "العبرية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-0990",
+"native": "Jëfandikukat ndoxum nit ñi, ngir bañ a xeex.",
+"arabic": "ترشيد استهلاك الماء، وحمياته من التلوث",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1569",
+"native": "Bésub 8 février, atum 2000",
+"arabic": "افتتح في الثّامن من شباط، عام ألفين وثمانية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "WOL-1605",
+"native": "Mbooloom: jàmm a nekk ci yéen.",
+"arabic": "الْمُعَلِّمُ : السَّلامُ عَلَيْكُمْ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0063",
+"native": "Mburu réew mi mooy dëkk bu yiw.",
+"arabic": "عاصمتها هي مدينة النعمة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1987",
+"native": "Xët yu soppi ak yu cant",
+"arabic": "نصوص صوفية وغنائية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1686",
+"native": "Jàppug seet ak sàkku",
+"arabic": "رحلة البحث والتنقيب",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-0296",
+"native": "Ci 11 km ci bëj-saalum dëkk bi.",
+"arabic": "وتبعد من المدينة الوثنية 11 كلم غربا",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1751",
+"native": "Latin bi.",
+"arabic": "اللاتينية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1636",
+"native": "Doom: Xalal bi!",
+"arabic": "الطفل: صباح النور!",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1052",
+"native": "Wàllukaay ak xeeti-gërëm",
+"arabic": "غسيل السيارات والشاحنات",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1210",
+"native": "Jëfandikoo jamono bu bare ci bés bi.",
+"arabic": "توفير الكثير من الوقت خلال اليوم",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-0321",
+"native": "Mohamed Abu Al-Haawi",
+"arabic": "محمد أبو المعالي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1038",
+"native": "Di sàmm safara gi ci géej yi",
+"arabic": "الحفاظ على نظافة المحيطات",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1663",
+"native": "Ndekk bi: 15/12/1987",
+"arabic": "تَارِيْخُ الْمِيْلَادِ : 15/12/1987",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1621",
+"native": "Téxt bi",
+"arabic": "النَّصّ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1586",
+"native": "Man Siriin mi jóge dëkku Damask.",
+"arabic": "أَنَا سُورِيٌّ مِنْ مَدِينَةِ دِمَشْق",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1590",
+"native": "Xët yi ci wàll gi",
+"arabic": "الدَّرْسُ التَّالِي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1989",
+"native": "Araab mooy làkk bu culture ci Afrig",
+"arabic": "العربية لغة الثقافة في القرن الإفريقي",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1909",
+"native": "Jëfandikukat bi.",
+"arabic": "الحنّاء السودانية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1756",
+"native": "Xinaay bi.",
+"arabic": "الصينية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1180",
+"native": "Te ci li ñu koy wax:",
+"arabic": "ومن هذه النّصائح:",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-0988",
+"native": "jëfandikoo ay xët yu ngir sàmm kàttanu",
+"arabic": "استعمال أجهزة موفرة للطاقة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1613",
+"native": "Zayn: Maayitu Zayn, maay jàngoro, jóge Pakistan.",
+"arabic": "زَيْنَبُ: اِسْمِي زَيْنَبُ، أَنَا مُمَرِّضَةٌ، أَنَا مِنْ باكِسْتانَ",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0932",
+"native": "Jëfandikukat yi di am njariñ",
+"arabic": "تطور الاهتمام بالرغبات الخاصة للمستهلكين",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-0181",
+"native": "Mu dee atum 1265",
+"arabic": "مات سنة : 1265ه",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1565",
+"native": "Muséej Crystal, walla Muséej Buloor, Malezi.",
+"arabic": "مسجد الكريستال، (أو المسجد البلّوريّ)، ماليزيا",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Art & Culture"
+},
+{
+"id": "WOL-0178",
+"native": "ak coonoy ak sa màggal.",
+"arabic": "ورحلة المنى والمنة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1771",
+"native": "Feex yu bare.",
+"arabic": "أرقام صادمة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1017",
+"native": "Jëfandikukat yi ñu di jëfe",
+"arabic": "زراعة النباتات المقاومة للجفاف",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-0201",
+"native": "Te am na itam ay xët yu bare.",
+"arabic": "و عسلها أيضا كثير يأتيها من بلاد السودان",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-0176",
+"native": "Mu dee ci 1240H.",
+"arabic": "مات حوالي 1240ه تقريبا",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1432",
+"native": "Foofaar, mu ngi ngi taxawal mujug weerug Ramadan.",
+"arabic": "عيد الفطر.. مسك ختام شهر رمضان",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Religion"
+},
+{
+"id": "WOL-1006",
+"native": "Di sàmm mbëj gi ci wàllu njiit.",
+"arabic": "الحفاظ على البيئة من التلوث",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1066",
+"native": "Jëfandikoo yëf yi ñu sàkk",
+"arabic": "إعادة تدوير المواد المصنوعة من الأخشاب",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-1270",
+"native": "Sénario ñette: li mooy jàngu bi ci Internet",
+"arabic": "السيناريو الثالث: الذي هو التعليم الإلكتروني",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1595",
+"native": "Foofa la sa jabar yi?",
+"arabic": "أَيْنَ صُوَرُ أُسْرَتِكَ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1905",
+"native": "Ramadaan bëgg ko.",
+"arabic": "رمضان يحلو به",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1624",
+"native": "Naka la dund bu bees ci Amman?",
+"arabic": "كَيْفَ الحَياةُ الجَدِيدَةُ في عَمّانَ؟ وَكَيْفَ تَقْضِي يَوْمَكَ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1218",
+"native": "Xam-xam bu rafet bi dafa daanu.",
+"arabic": "تراجع الروح التنافسية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1175",
+"native": "Man la mu ngi koy wax?",
+"arabic": "المصدر",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "General"
+},
+{
+"id": "WOL-1637",
+"native": "Sëriñ bi: Danga def lu baax?",
+"arabic": "رجل الأمن: كيف حالك؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1265",
+"native": "\"Kër, ñaar, ñetti, ñeent\".",
+"arabic": "\"واحد، اثنان، ثلاثة، أربعة\"",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1622",
+"native": "Bonjour Ramy, xale, lu baax la?",
+"arabic": "مَرْحَبًا رامِي، كَيْفَ حالُكَ؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1761",
+"native": "Finnees",
+"arabic": "الفنلندية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1704",
+"native": "Noor Sukar",
+"arabic": "نور شاكر",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Technology & Innovation"
+},
+{
+"id": "WOL-0838",
+"native": "Waxtaan bi dafa am 15 minut.",
+"arabic": "المحادثةُ لمدّة خمس عشرة دقيقة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1509",
+"native": "Ca guddi, jàng naa ak Lena ak Ali.",
+"arabic": "في المساء أدرس مع لينا وعلي، لديهما حصص دراسيّة يوميّة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Lifestyle"
+},
+{
+"id": "WOL-0732",
+"native": "Lii lépp, Abdallah Ben Yassin, njiitu jamono ji,",
+"arabic": "وكان ذلك كله على يد عبدالله بن ياسين الزعيم الأول للحركة",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1659",
+"native": "Man de Sécurité: Pardon, monsieur Abdel-Ghofar.",
+"arabic": "رجل الأمن: عفوا سيد عبد الغفور. لا شكر على واجب",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1026",
+"native": "Jëfandikukat yi ngir jël kàttanu",
+"arabic": "ترشيد استهلاك الطاقة الكهربائية",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Environment"
+},
+{
+"id": "WOL-0367",
+"native": "Yàlla baal na ñépp.",
+"arabic": "غفر الله للجميع",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "History"
+},
+{
+"id": "WOL-1653",
+"native": "Xëfkat: Sëriñ Abdul Afur?",
+"arabic": "رجل الأمن: السيد عبد الغفور؟",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+},
+{
+"id": "WOL-1668",
+"native": "Nday: 20/03/2021",
+"arabic": "التَّارِيخ : 20/3/2021",
+"french": "",
+"english": "",
+"level": "sentence",
+"category": "Education"
+}
+]
+}
